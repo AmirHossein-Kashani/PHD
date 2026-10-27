@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"1 Projects/Auto Researcher\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#type/home OR tag:#type/dashboard OR tag:#type/timeline OR tag:#type/ideas OR tag:#type/decisions",
+      "color": {
+        "a": 1,
+        "rgb": 15381256
+      }
+    },
+    {
+      "query": "tag:#type/hub",
+      "color": {
+        "a": 1,
+        "rgb": 14689374
+      }
+    },
+    {
+      "query": "tag:#type/project-note OR tag:#type/draft",
+      "color": {
+        "a": 1,
+        "rgb": 15485081
+      }
+    },
+    {
+      "query": "tag:#type/topic",
+      "color": {
+        "a": 1,
+        "rgb": 15899960
+      }
+    },
+    {
+      "query": "tag:#type/paper OR tag:#type/review",
+      "color": {
+        "a": 1,
+        "rgb": 3900150
+      }
+    },
+    {
+      "query": "tag:#type/meeting",
+      "color": {
+        "a": 1,
+        "rgb": 2278750
+      }
+    },
+    {
+      "query": "tag:#type/report",
+      "color": {
+        "a": 1,
+        "rgb": 11032055
+      }
+    },
+    {
+      "query": "tag:#type/learning",
+      "color": {
+        "a": 1,
+        "rgb": 1357990
+      }
+    },
+    {
+      "query": "tag:#type/daily",
+      "color": {
+        "a": 1,
+        "rgb": 10265519
+      }
+    },
+    {
+      "query": "tag:#type/category",
+      "color": {
+        "a": 1,
+        "rgb": 6583435
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 200,
+  "scale": 1.4019828977760815,
+  "close": false
+}

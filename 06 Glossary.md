@@ -27,12 +27,12 @@ tags: [type/glossary]
 | **Evidence tier** | Type of evidence: curated, clinical, mechanistic, narrative. Only same-tier evidence can contradict | [[MS - Method (Pipeline and Ledger)]] |
 | **Exploration vs exploitation** | Try new things vs improve what already works | [[Creativity and Exploration]] |
 | **False premise test** | A question that contains a wrong claim (CYP2D6-doxorubicin). A good system should say it is wrong | [[MS - Phases and Results]] |
-| **Fixation** | An agent keeps defending its first idea even when evidence says it is wrong | [[AR - Method and Contributions]] |
+| **Fixation** | An agent keeps defending its first idea even when evidence says it is wrong | [[AR 1 - Problem and Method]] |
 | **GFlowNet** | A model that learns to build objects with probability proportional to a reward | [[GFlowNet Foundations]] |
 | **Grounded %** | Share of genes in the answer that really appear in the retrieved evidence | [[MS - Phases and Results]] |
 | **KG** | Knowledge graph: facts stored as entities and links | [[RAG and Knowledge Graphs]] |
 | **LangGraph** | Python library to build agents as graphs of nodes and edges | [[LangGraph]] |
-| **Local knowledge (path to root)** | Our idea: each agent keeps the chain of decisions from its current idea back to the root | [[AR - Method and Contributions]] |
+| **Local knowledge (path to root)** | Our idea: each agent keeps the chain of decisions from its current idea back to the root | [[AR 1 - Problem and Method]] |
 | **MAD** | Multi-agent debate | [[Multi-Agent Debate]] |
 | **Masking (context)** | Each agent sees only part of the facts | [[Creativity in Multi-Agent Debate]] |
 | **MCMC** | Markov chain Monte Carlo: sampling by a long random walk | [[MCMC - Markov Chain Monte Carlo]] |
@@ -46,6 +46,6 @@ tags: [type/glossary]
 | **Retro-Fork** | Later name of the reversible exploration proposal | [[Reversible Exploration (ARIADNE and Retro-Fork)]] |
 | **Scientist-level agent** | An agent that runs the whole discovery loop (vs Tool or Analyst level) | [[Autonomous Research Agents]] |
 | **Spearman (rho)** | Rank correlation between two lists of numbers | [[Evaluation and Metrics]] |
-| **Trajectory of thinking** | Append-only log of plan, implementation, result, revision for all agents; used as a control signal | [[AR - Method and Contributions]] |
+| **Trajectory of thinking** | Append-only log of plan, implementation, result, revision for all agents; used as a control signal | [[AR 1 - Problem and Method]] |
 | **Usable novelty** | Rare ideas minus the ones a judge flags as implausible | [[Creativity in Multi-Agent Debate]] |
 | **Worktree (git)** | A separate working copy of a git repo, so an experiment does not touch the main code | [[Arbor - Hypothesis Tree Refinement]] |

@@ -7,3 +7,6 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Local backups made before restructuring (not for GitHub)
+.backup/

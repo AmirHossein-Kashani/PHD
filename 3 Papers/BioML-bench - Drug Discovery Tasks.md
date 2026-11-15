@@ -14,7 +14,7 @@ updated: 2026-08-05
 > [!summary] In short
 > The 9 drug discovery tasks of BioML-bench (potency, ADME, toxicity) from Polaris and TDC.
 
-**Project:** [[Reversible Exploration (ARIADNE and Retro-Fork)]], [[Auto Researcher]]  
+**Project:** [[Reversible Exploration (ARIADNE and Retro-Fork)]], [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Biomedicine and Drug Discovery]], [[Benchmarks and Datasets]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[BioML-bench]]  

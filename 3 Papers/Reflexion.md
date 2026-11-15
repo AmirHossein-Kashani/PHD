@@ -14,7 +14,7 @@ updated: 2026-05-16
 > [!summary] In short
 > Actor, evaluator and self-reflection model. The agent learns from verbal feedback stored in memory.
 
-**Project:** [[Early Exploration (May-June 2026)]], [[Auto Researcher]]  
+**Project:** [[Early Exploration (May-June 2026)]], [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Agent Architectures and Frameworks]], [[Memory and Long Context]]  
 **Notion category:** [[Notion Category - Protein Generation]]  
 **Original:** [Notion page](https://app.notion.com/p/362d68da32f080e9a5d2e166ed33b899)

@@ -15,17 +15,17 @@ tags: [type/ideas]
 | Date | Idea | Status | Source |
 |---|---|---|---|
 | Oct 21 | Explored "5 new ideas" to improve the system (details not written in Notion - add them here) | tried? | [[01 Now and Next#Daily 2026-10-20 to 2026-10-23\|Daily 2026-10-20 to 2026-10-23]] |
-| Oct 20 | **Combine jumping ideas with refinement**; decide how much refinement vs how many new ideas | new | [[AR - Meeting Log#2026-10-20 One-on-One\|2026-10-20 One-on-One]] |
-| Oct 14 | **Short-lived ambitious sub-agents** that ignore the parent hierarchy and create very novel ideas, so agents do not just defend old ideas | new | [[AR Paper - Introduction Draft]] |
-| Oct 14 | **Local knowledge = path to root**, with the condition that would overturn each decision | used | [[AR - Method and Contributions]] |
-| Oct 14 | **Trajectory of thinking as a control signal** (stuck branches, converging agents, distance from tried ideas) | used | [[AR - Method and Contributions]] |
-| Sep 21 | Give the agent only **parent history + compressed shared knowledge**, not the whole graph, to go deeper | used | [[AR - Meeting Log#2026-09-21 One-on-One\|2026-09-21 One-on-One]] |
-| Sep 21 | Carry the tree and memory **across rounds**; add a **leaf-selection tool** | new | [[AR - Meeting Log#2026-09-21 One-on-One\|2026-09-21 One-on-One]] |
-| Aug 25 | **Quality-diversity** as the main rule of a long-horizon research agent on Arbor, for a diverse portfolio of drug hypotheses | parked | [[AR - Meeting Log#2026-08-25 One-on-One\|2026-08-25 One-on-One]] |
-| Aug 25 | An agent that knows **when to move**: down, up, sideways, merge branches, or return to an old branch. Creativity = asking better questions | new | [[AR - Meeting Log#2026-08-25 One-on-One\|2026-08-25 One-on-One]] |
+| Oct 20 | **Combine jumping ideas with refinement**; decide how much refinement vs how many new ideas | new | [[AR 7 - Meeting Log#2026-10-20 One-on-One\|2026-10-20 One-on-One]] |
+| Oct 14 | **Short-lived ambitious sub-agents** that ignore the parent hierarchy and create very novel ideas, so agents do not just defend old ideas | new | [[AR 6 - Paper Draft (Introduction)]] |
+| Oct 14 | **Local knowledge = path to root**, with the condition that would overturn each decision | used | [[AR 1 - Problem and Method]] |
+| Oct 14 | **Trajectory of thinking as a control signal** (stuck branches, converging agents, distance from tried ideas) | used | [[AR 1 - Problem and Method]] |
+| Sep 21 | Give the agent only **parent history + compressed shared knowledge**, not the whole graph, to go deeper | used | [[AR 7 - Meeting Log#2026-09-21 One-on-One\|2026-09-21 One-on-One]] |
+| Sep 21 | Carry the tree and memory **across rounds**; add a **leaf-selection tool** | new | [[AR 7 - Meeting Log#2026-09-21 One-on-One\|2026-09-21 One-on-One]] |
+| Aug 25 | **Quality-diversity** as the main rule of a long-horizon research agent on Arbor, for a diverse portfolio of drug hypotheses | parked | [[AR 7 - Meeting Log#2026-08-25 One-on-One\|2026-08-25 One-on-One]] |
+| Aug 25 | An agent that knows **when to move**: down, up, sideways, merge branches, or return to an old branch. Creativity = asking better questions | new | [[AR 7 - Meeting Log#2026-08-25 One-on-One\|2026-08-25 One-on-One]] |
 | Aug 4 | **Decision-level rollback from a valid failure** (ARIADNE-Bio) | used (Phase 1) | [[Reversible Exploration (ARIADNE and Retro-Fork)#2026-08-04 One-on-One\|2026-08-04 One-on-One]] |
 | Aug 14 | Use **intermediate rewards / criteria** when approaching a solution in a long horizon | new | [[PMO - Practical Molecular Optimization]] |
-| Sep 1 | **DrugMechDB inverted** benchmark: hide all drugs and mechanism paths of a disease and ask the agent to rebuild them | new | [[AR - Meeting Log#2026-09-01 One-on-One\|2026-09-01 One-on-One]] |
+| Sep 1 | **DrugMechDB inverted** benchmark: hide all drugs and mechanism paths of a disease and ask the agent to rebuild them | new | [[AR 7 - Meeting Log#2026-09-01 One-on-One\|2026-09-01 One-on-One]] |
 
 ## Multi-Source Evidence RAG
 

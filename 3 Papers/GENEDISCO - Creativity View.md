@@ -15,7 +15,7 @@ updated: 2026-08-17
 > [!summary] In short
 > GENEDISCO seen as a creativity test: maximize target discovery rate and model performance.
 
-**Project:** [[Creativity in Multi-Agent Debate]], [[Auto Researcher]]  
+**Project:** [[Creativity in Multi-Agent Debate]], [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Biomedicine and Drug Discovery]], [[Benchmarks and Datasets]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Creativity Measuring Benchmarks]]  

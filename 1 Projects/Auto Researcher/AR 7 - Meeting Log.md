@@ -3,9 +3,9 @@ type: project-log
 project: Auto Researcher
 tags: [type/project-log, project/auto-researcher]
 ---
-# AR - Meeting Log
+# AR 7 - Meeting Log
 
-Part of [[Auto Researcher]].
+Part of [[AR 0 - Start Here|Auto Researcher]].
 
 > [!summary] In short
 > Everything that was said or reported in meetings about the **Auto Researcher**, newest first. Each entry is one meeting (date + title) with a link to the original Notion page. Meetings are **not separate notes**: their content lives here and in the topic notes. If a meeting also talked about other things, the entry links to the other parts (for example in [[MS - Meeting Log]]).
@@ -47,7 +47,7 @@ fix this version and also we want to make it  improve
 *Other parts of this meeting:* [[MS - Meeting Log#2026-10-14 One-on-One|MS - Meeting Log]]
 
 #### next week plan
-- [ ] [[AR Paper - Introduction Draft]]  
+- [ ] [[AR 6 - Paper Draft (Introduction)]]  
 - [ ] Finalizing baselines for researcher paper
 
 #### prev week achievments

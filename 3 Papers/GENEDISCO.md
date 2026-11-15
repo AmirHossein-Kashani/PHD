@@ -14,7 +14,7 @@ updated: 2026-08-14
 > [!summary] In short
 > Benchmark for choosing which genes to test next in costly experiments (active learning for drug target discovery).
 
-**Project:** [[Reversible Exploration (ARIADNE and Retro-Fork)]], [[Auto Researcher]]  
+**Project:** [[Reversible Exploration (ARIADNE and Retro-Fork)]], [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Biomedicine and Drug Discovery]], [[Benchmarks and Datasets]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Benchmarks for MoA and Multi-Agent Systems]]  

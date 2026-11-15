@@ -14,7 +14,7 @@ updated: 2026-08-06
 > [!summary] In short
 > Biomni builds a large biomedical action space (tools, databases, software) from 2,500 papers. Good for medical baselines.
 
-**Project:** [[Auto Researcher]], [[Reversible Exploration (ARIADNE and Retro-Fork)]]  
+**Project:** [[AR 0 - Start Here|Auto Researcher]], [[Reversible Exploration (ARIADNE and Retro-Fork)]]  
 **Topics:** [[Biomedicine and Drug Discovery]], [[Benchmarks and Datasets]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Baselines for Gaps Protocol]]  

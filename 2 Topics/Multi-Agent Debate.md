@@ -24,7 +24,7 @@ tags: [type/topic, topic/multi-agent-debate]
 - [[Claim-Level Conflict in Debate]] (main topic)
 - [[Creativity in Multi-Agent Debate]]
 - [[Multi-Source Evidence RAG]] (idea: one agent per paper to aggregate evidence)
-- [[Auto Researcher]] (multiple agents, diversity)
+- [[AR 0 - Start Here|Auto Researcher]] (multiple agents, diversity)
 
 ## Notes from meetings
 
@@ -85,13 +85,15 @@ tags: [type/topic, topic/multi-agent-debate]
 - [[Gaps Protocol - Claim Conflict Proposal]] - Proposal: debate systems vote on whole answers and miss which claims conflict. Idea: extract claims, detect and classify conflicts, build a claim-conflict graph,...
 - [[Suggested Papers for Gaps Protocol]] - Reading list in tiers A to E for the claim-conflict proposal (SMADE-IE, MACI, MAD-Fact, DebateCV, argumentation theory, baselines).
 
-### Papers (16)
+### Papers (18)
 
 - [[ACE - Analyze Compose Execute Debate]] - Dynamic debate: agents choose the next discussion act (sense-plan-act) instead of a fixed number of rounds.
+- [[AutoResearchClaw]] - 23-stage idea-to-paper pipeline with PROCEED / REFINE / PIVOT and a lesson store. Judged by an LLM.
 - [[Communication Strategy (draft)]] - Unfinished note on communication strategies between agents (one image).
 - [[Debate on Graph (DoG)]] - KG question answering with debate to avoid long reasoning paths and false-positive relations.
 - [[DoM - Debate over Mixed-knowledge]] - For incomplete KGs: a KG agent and a text (RAG) agent work in parallel and a judge decides.
 - [[Du et al. - Multiagent Debate]] - The original multi-agent debate paper: several LLM copies answer, read each other and revise until they agree. Main baseline for debate work.
+- [[Google AI Co-Scientist]] - Generate, debate, Elo-rank and evolve biomedical hypotheses (Nature 2026). No public code; does not run its own experiments.
 - [[iMAD - Intelligent Multi-Agent Debate]] - Runs debate only when it will likely help, using a self-critique and a classifier. Saves tokens.
 - [[Key Decision-Makers in Multi-Agent Debate]] - Speaking order matters: agents who speak later have more power over the final answer.
 - [[MACI - Moderator with Two Dials]] - A moderator controls debate with an information dial (evidence quality) and a behavior dial (how agents interact).

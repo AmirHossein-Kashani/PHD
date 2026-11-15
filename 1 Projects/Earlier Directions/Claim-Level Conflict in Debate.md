@@ -9,7 +9,7 @@ tags: [type/hub, project/claim-conflict, topic/multi-agent-debate]
 > [!summary] In short
 > Idea from July 2026 (the "Gaps protocol"). Multi-agent debate systems usually **vote on whole answers**. They do not find **which claims** conflict, and they treat all conflict types the same. Proposal: extract claims from each agent, detect and classify conflicts (factual, evidential, definitional, logical, reasoning-path, value), build a **claim-conflict graph**, and resolve each conflict with the right tool (retrieval, solver, clarification, decision protocol).
 
-Status: **paused**. On 27 July we decided to stay close to MAD and MoA, and in August the focus moved to research agents ([[Reversible Exploration (ARIADNE and Retro-Fork)]], then [[Auto Researcher]]). The conflict ideas live on in the **contradiction layer** of [[Multi-Source Evidence RAG]].
+Status: **paused**. On 27 July we decided to stay close to MAD and MoA, and in August the focus moved to research agents ([[Reversible Exploration (ARIADNE and Retro-Fork)]], then [[AR 0 - Start Here|Auto Researcher]]). The conflict ideas live on in the **contradiction layer** of [[Multi-Source Evidence RAG]].
 
 Main notes: [[Gaps Protocol - Claim Conflict Proposal]], [[Suggested Papers for Gaps Protocol]], [[Review - Baselines for Gaps Protocol]], meetings [[Claim-Level Conflict in Debate#2026-07-07 One-on-One|2026-07-07 One-on-One]] and [[Claim-Level Conflict in Debate#2026-07-14 One-on-One|2026-07-14 One-on-One]].
 

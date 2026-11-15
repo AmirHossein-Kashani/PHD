@@ -12,12 +12,12 @@ tags: [type/topic, topic/memory-and-long-context]
 
 - **Numbers to remember:** in long-context tests without literal cues, 11 of 13 models fell below half of their short-context accuracy at 32K tokens (NoLiMa). In our pilot, about 77% of model usage was re-reading context.
 - **Memory designs:** summaries and retrieval (Generative Agents, MemGPT), reflections on failures ([[Reflexion]]), two-layer raw + summary memory ([[Mage - Memory as Execution State|Mage]]), git-like branch memory (GCC, AgentGit), rollback (ChronoMem), evidence graphs ([[EviGraph - Evidence-Guided Research Agents|EviGraph]]), persistent hypothesis tree ([[Arbor - Hypothesis Tree Refinement|Arbor]]).
-- **My design:** local knowledge = **path to the root** + compressed shared knowledge ([[AR - Method and Contributions]]).
+- **My design:** local knowledge = **path to the root** + compressed shared knowledge ([[AR 1 - Problem and Method]]).
 - **Attention steering:** mark important text and push attention to it ([[PASTA - Attention Steering|PASTA]]), keep attention on the prompt ([[SPA - Selective Prompt Anchoring|SPA]]), re-anchor to plan steps ([[Self-Anchor (ATAR)]]). Review: [[Review - Attention by Highlighting]].
 
 ## Where it is used
 
-- [[Auto Researcher]]
+- [[AR 0 - Start Here|Auto Researcher]]
 - [[Claim-Level Conflict in Debate]] (bold regions idea)
 - [[Reversible Exploration (ARIADNE and Retro-Fork)]]
 
@@ -41,15 +41,22 @@ tags: [type/topic, topic/memory-and-long-context]
 
 ### Drafts (1)
 
-- [[AR Paper - Introduction Draft]] - Draft of the auto-researcher paper introduction: levels of scientific agents, our level, limits (long context, planning, memory, exploration), closest systems and our...
+- [[AR 6 - Paper Draft (Introduction)]] - Draft of the auto-researcher paper introduction: levels of scientific agents, our level, limits (long context, planning, memory, exploration), closest systems and our...
 
-### Papers (7)
+### Papers (14)
 
+- [[AiScientist - File-as-Bus Long-Horizon Engineering]] - Orchestrator plus a shared File-as-Bus workspace with append-only logs; 81.82% on MLE-bench Lite. No code.
 - [[Arbor - Hypothesis Tree Refinement]] - Arbor keeps the whole research state in a persistent hypothesis tree. A long-lived coordinator manages the tree; short-lived executors test one hypothesis each in a...
+- [[DeepScientist - Findings Memory]] - Bayesian-optimization research loop with a Findings Memory of all ideas, failed ones too; month-long runs (ICLR 2026).
 - [[EviGraph - Evidence-Guided Research Agents]] - Graph of evidence with long and short memory and rollback to a better earlier state. Uses the graph for evidence, not for thinking steps. Not very similar to our work.
+- [[Failure Registry - Recovering Wasted Compute]] - Plug-in failure registry with banned patterns, proven fixes and backtracking; AIDE golds 22 to 38.
+- [[Kosmos - AI Scientist with World Model]] - Long runs with a shared structured world model; keeps conclusions, not paths. Commercial, no code.
 - [[Mage - Memory as Execution State]] - Memory for long-horizon agents as execution state: one layer for raw step data, one layer for summaries. Critical of plain RAG memory.
+- [[ML-Master 2.0 - Hierarchical Cognitive Caching]] - Three memory levels (traces, phase summaries with reasons, cross-task wisdom); 56.44% medals on full MLE-bench. Strongest memory rival.
+- [[MLEvolve - Monte Carlo Graph Search]] - UCT tree with cross-branch reference edges and a success/failure memory; 65.3% any medal on full MLE-bench in 12 h.
 - [[PASTA - Attention Steering]] - Lets the user mark important text and steers model attention to it, like bold text for humans.
 - [[Reflexion]] - Actor, evaluator and self-reflection model. The agent learns from verbal feedback stored in memory.
+- [[ScienceFlow - Re-Anchoring Long-Horizon Agent]] - Continue or jump back to archived checkpoints with their evidence; 70.22% on full MLE-bench. Closest to reopening old ideas.
 - [[Self-Anchor (ATAR)]] - Interleaves plan and action steps and steers attention back to the question and the current plan step.
 - [[SPA - Selective Prompt Anchoring]] - Fixes "attention dilution" in long code generation by keeping attention on the user prompt.
 

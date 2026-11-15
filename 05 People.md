@@ -20,7 +20,7 @@ tags: [type/people]
 - Meeting about an **idea for the KG** ([[Claim-Level Conflict in Debate#2026-07-07 One-on-One|2026-07-07 One-on-One]]).
 
 ## Groups and meetings
-- **One-on-One** meetings (weekly; the notes do not name the other person - probably the supervisor). Their content is now inside the project and topic notes, mainly [[AR - Meeting Log]] and [[MS - Meeting Log]].
+- **One-on-One** meetings (weekly; the notes do not name the other person - probably the supervisor). Their content is now inside the project and topic notes, mainly [[AR 7 - Meeting Log]] and [[MS - Meeting Log]].
 - **Weekly group meeting** ([[Neuro-Symbolic Reasoning and Argumentation#2026-06-01 Weekly Group Meeting|2026-06-01 Weekly Group Meeting]]).
 - **BC Children** team meetings ([[MS - Meeting Log#2026-06-02 One-on-One|2026-06-02 One-on-One]] mentions a meeting on 4 June; [[MS - Meeting Log#2026-10-07 BC Children Meeting|2026-10-07 BC Children Meeting]]).
 - **Explore Computing Science** talks ([[Agent Architectures and Frameworks#2026-05-14 Explore CS Talk - Confucius Framework|2026-05-14 Explore CS Talk - Confucius Framework]], [[Agent Architectures and Frameworks#2026-05-21 Explore CS Talk - PINC|2026-05-21 Explore CS Talk - PINC]]).

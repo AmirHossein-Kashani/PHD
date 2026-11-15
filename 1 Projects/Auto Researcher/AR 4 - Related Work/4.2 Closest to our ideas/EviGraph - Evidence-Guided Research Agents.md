@@ -14,7 +14,7 @@ updated: 2026-08-12
 > [!summary] In short
 > Graph of evidence with long and short memory and rollback to a better earlier state. Uses the graph for evidence, not for thinking steps. Not very similar to our work.
 
-**Project:** [[Auto Researcher]], [[Reversible Exploration (ARIADNE and Retro-Fork)]]  
+**Project:** [[AR 0 - Start Here|Auto Researcher]], [[Reversible Exploration (ARIADNE and Retro-Fork)]]  
 **Topics:** [[Autonomous Research Agents]], [[Memory and Long Context]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Baselines for Gaps Protocol]]  

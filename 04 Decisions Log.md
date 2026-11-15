@@ -9,10 +9,10 @@ tags: [type/decisions]
 
 | Date | Project | Decision | Why / note | Source |
 |---|---|---|---|---|
-| 2026-10-20 | All | Move research notes from Notion to **Obsidian** | easier to hold and link content | [[AR - Meeting Log#2026-10-20 One-on-One\|2026-10-20 One-on-One]] |
+| 2026-10-20 | All | Move research notes from Notion to **Obsidian** | easier to hold and link content | [[AR 7 - Meeting Log#2026-10-20 One-on-One\|2026-10-20 One-on-One]] |
 | 2026-10-15 | Multi-Source | **Final baseline set** for the multi-evidence system (one new baseline added) | - | [[01 Now and Next#Daily 2026-10-15 to 2026-10-19\|Daily 2026-10-15 to 2026-10-19]] |
-| 2026-10-14 | Auto Researcher | The Kaggle competition is **not a good final evaluation** | few final submissions; validation and final scores disagree; agents copy public answers | [[AR - Meeting Log#2026-10-14 One-on-One\|2026-10-14 One-on-One]] |
-| 2026-10-14 | Auto Researcher | In the paper, claim **local knowledge (path to root)** as the contribution; **do not** claim shared knowledge; do not mention explicit research steps yet | shared summaries exist in Kosmos; research steps not built yet | [[AR Paper - Introduction Draft]] |
+| 2026-10-14 | Auto Researcher | The Kaggle competition is **not a good final evaluation** | few final submissions; validation and final scores disagree; agents copy public answers | [[AR 7 - Meeting Log#2026-10-14 One-on-One\|2026-10-14 One-on-One]] |
+| 2026-10-14 | Auto Researcher | In the paper, claim **local knowledge (path to root)** as the contribution; **do not** claim shared knowledge; do not mention explicit research steps yet | shared summaries exist in Kosmos; research steps not built yet | [[AR 6 - Paper Draft (Introduction)]] |
 | 2026-10-07 | Multi-Source | Dataset: **BioASQ list questions**; baselines: LLM only, plain PubMed RAG, MindMap, simple hybrid RAG, AMG-RAG (ToG-2 optional) | best fit for a PubMed-based system with list answers | [[MS - Meeting Log#2026-10-07 BC Children Meeting\|2026-10-07 BC Children Meeting]] |
 | 2026-10-07 | Multi-Source | Drop RiTeK-PharmKG and STaRK-Prime | no searchable text | [[MS - Meeting Log#2026-10-07 BC Children Meeting\|2026-10-07 BC Children Meeting]] |
 | 2026-09-29 | Multi-Source | PGxQA as main external comparison; HealthContradict if the ledger can be generalized; PGxCorpus for the extraction stage | - | [[MS - Meeting Log#2026-09-29 One-on-One\|2026-09-29 One-on-One]] |

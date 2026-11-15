@@ -14,7 +14,7 @@ updated: 2026-07-27
 > [!summary] In short
 > Evolutionary coding agent: LLMs propose program changes, automatic evaluation selects survivors. Creativity comes from a pool of ideas that keeps improving.
 
-**Project:** [[Auto Researcher]], [[Claim-Level Conflict in Debate]]  
+**Project:** [[AR 0 - Start Here|Auto Researcher]], [[Claim-Level Conflict in Debate]]  
 **Topics:** [[Autonomous Research Agents]], [[Creativity and Exploration]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Baselines for Gaps Protocol]]  

@@ -14,7 +14,7 @@ tags: [type/topic, topic/evaluation-and-metrics]
 |---|---|
 | [[Multi-Source Evidence RAG]] | refs per question, on-topic %, grounded %, ClinPGx-valid %, false-premise test, calibration (Spearman between confidence and label), contradiction precision / recall / F1 |
 | [[Creativity in Multi-Agent Debate]] | round-1 agent diversity (cosine, idea-level Jaccard), composite creativity, judge novelty / usefulness / flexibility, rare ideas, usable novelty, flagged implausible ideas, gold recall and rank; Cliff's d, Wilcoxon, bootstrap CI, Spearman |
-| [[Auto Researcher]] | leaderboard score, speed to a target score, hours, merged cycles, tree depth, rank |
+| [[AR 0 - Start Here\|Auto Researcher]] | leaderboard score, speed to a target score, hours, merged cycles, tree depth, rank |
 
 ## Good practice (from the notes)
 
@@ -35,9 +35,10 @@ tags: [type/topic, topic/evaluation-and-metrics]
 - [[Creativity Exp 2 - Conclusion]] - Conclusion of Exp 2 (asymmetry levers). Persona works best; representation is a null; the new aggregator helped creativity but lost the correct diagnosis.
 - [[Creativity Exp 2 - Full Results]] - Full statistics of Exp 2 (persona, masking, representation, aggregator bottleneck, medical safety).
 
-### Papers (1)
+### Papers (2)
 
 - [[MAD for LLM Judges (Adaptive Stability)]] - Several LLM judges debate and stop when their answers become stable (adaptive stopping).
+- [[ScientistTwo]] - Google system that improves published ML methods (86 of 107 wins); Good / Bad / Engineer triage; about $3.8k per task, no code.
 
 ### Literature reviews and lists (1)
 

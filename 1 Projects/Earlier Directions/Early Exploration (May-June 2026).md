@@ -35,7 +35,7 @@ tags: [type/hub, project/early-exploration, topic/agent-architectures-and-framew
 - The agent-architecture knowledge is now in [[Agent Architectures and Frameworks]].
 - The debate reading led to [[Claim-Level Conflict in Debate]].
 - The RAG + KG survey led to [[Multi-Source Evidence RAG]].
-- The creativity question came back in [[Creativity in Multi-Agent Debate]] and [[Auto Researcher]].
+- The creativity question came back in [[Creativity in Multi-Agent Debate]] and [[AR 0 - Start Here|Auto Researcher]].
 
 ## Notes from meetings
 

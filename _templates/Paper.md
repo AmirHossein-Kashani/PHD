@@ -14,7 +14,7 @@ tags: [type/paper]
 > [!summary] In short
 > (one or two simple sentences: what the paper does and why it matters for me)
 
-**Project:** [[Auto Researcher]] / [[Multi-Source Evidence RAG]] (keep one)  
+**Project:** [[AR 0 - Start Here|Auto Researcher]] / [[Multi-Source Evidence RAG]] (keep one)  
 **Topics:** (add topic links, see [[00 Home]])
 
 ---

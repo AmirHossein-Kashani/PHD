@@ -16,7 +16,7 @@ updated: 2026-05-17
 > [!summary] In short
 > Reasoning as a tree or a graph of thoughts with generate, refine and aggregate steps.
 
-**Project:** [[Early Exploration (May-June 2026)]], [[Auto Researcher]]  
+**Project:** [[Early Exploration (May-June 2026)]], [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Agent Architectures and Frameworks]], [[Creativity and Exploration]]  
 **Notion category:** [[Notion Category - Protein Generation]]  
 **Original:** [Notion page](https://app.notion.com/p/362d68da32f080e5be18ce9b00a41d18)

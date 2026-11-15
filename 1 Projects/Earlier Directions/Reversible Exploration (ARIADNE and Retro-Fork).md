@@ -8,9 +8,9 @@ tags: [type/hub, project/reversible-exploration, topic/autonomous-research-agent
 # Reversible Exploration (ARIADNE and Retro-Fork)
 
 > [!summary] In short
-> The step between debate work and the [[Auto Researcher]] (late July to September 2026). After deciding to stay close to **MAD and MoA** (27 July), the plan became a multi-agent research system for biology (**ARIADNE-Bio**) whose key idea was **reversible exploration**: an agent can go back to an earlier decision when a *valid* failure shows that the decision was wrong (**decision-level rollback from a valid failure**). Later versions were called **Retro-Fork**. These ideas became Phase 1 of our Arbor-based system (revoke ideas, blocking with reopening conditions, parent history, shared failure memory).
+> The step between debate work and the [[AR 0 - Start Here|Auto Researcher]] (late July to September 2026). After deciding to stay close to **MAD and MoA** (27 July), the plan became a multi-agent research system for biology (**ARIADNE-Bio**) whose key idea was **reversible exploration**: an agent can go back to an earlier decision when a *valid* failure shows that the decision was wrong (**decision-level rollback from a valid failure**). Later versions were called **Retro-Fork**. These ideas became Phase 1 of our Arbor-based system (revoke ideas, blocking with reopening conditions, parent history, shared failure memory).
 
-Status: **merged** into [[Auto Researcher]].
+Status: **merged** into [[AR 0 - Start Here|Auto Researcher]].
 
 ---
 
@@ -21,7 +21,7 @@ Status: **merged** into [[Auto Researcher]].
 - **4 Aug** - big related-work review: Arbor, Mage, GCC, EviGraph, FiF, DynaDebate, ChronoMem, AI Scientist-v2, Shepherd. Gap table with "decision-level rollback from valid failure" ([[Reversible Exploration (ARIADNE and Retro-Fork)#2026-08-04 One-on-One|2026-08-04 One-on-One]]).
 - **11 Aug** - `Reversible_Exploration_Plain_Language_v2.docx` and `Retro-Fork_Proposal_v3.docx` ([[Reversible Exploration (Plain Language v2)]], [[Retro-Fork Proposal v3]]).
 - **12 Aug** - read [[Arbor - Hypothesis Tree Refinement|Arbor]], which became the base system.
-- **Sep** - Phase 1 on Arbor ([[AR - Meeting Log#2026-09-21 One-on-One|2026-09-21 One-on-One]]).
+- **Sep** - Phase 1 on Arbor ([[AR 7 - Meeting Log#2026-09-21 One-on-One|2026-09-21 One-on-One]]).
 
 ## 2. Key ideas
 
@@ -33,7 +33,7 @@ Status: **merged** into [[Auto Researcher]].
 
 ## 3. Closest work and how it differs
 
-See the full tables in [[AR - Related Systems and Baselines#3. "Most dangerous" related papers (August ranking)]].
+See the full tables in [[AR 4 - Related Work and Baselines#9.1 "Most dangerous" related papers (August ranking)]].
 
 ## Notes from meetings
 

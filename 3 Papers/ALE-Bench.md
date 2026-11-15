@@ -14,7 +14,7 @@ updated: 2026-08-03
 > [!summary] In short
 > Score-based long-horizon algorithm engineering from 40 AtCoder heuristic contests. Results map to human rankings.
 
-**Project:** [[Reversible Exploration (ARIADNE and Retro-Fork)]], [[Auto Researcher]]  
+**Project:** [[Reversible Exploration (ARIADNE and Retro-Fork)]], [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Benchmarks and Datasets]], [[Autonomous Research Agents]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Benchmarks for MoA and Multi-Agent Systems]]  

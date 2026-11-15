@@ -14,7 +14,7 @@ updated: 2026-08-05
 > [!summary] In short
 > 24 end-to-end biomedical ML tasks (drug discovery, imaging, protein engineering, single-cell). Tests full ML pipelines by agents.
 
-**Project:** [[Reversible Exploration (ARIADNE and Retro-Fork)]], [[Auto Researcher]]  
+**Project:** [[Reversible Exploration (ARIADNE and Retro-Fork)]], [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Biomedicine and Drug Discovery]], [[Benchmarks and Datasets]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Benchmarks for MoA and Multi-Agent Systems]]  

@@ -14,7 +14,7 @@ updated: 2026-08-14
 > [!summary] In short
 > Text-only room-escape games to measure creative intelligence of LLM agents. Top models reach only about 15% progress without hints.
 
-**Project:** [[Creativity in Multi-Agent Debate]], [[Auto Researcher]]  
+**Project:** [[Creativity in Multi-Agent Debate]], [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Creativity and Exploration]], [[Benchmarks and Datasets]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Creativity Measuring Benchmarks]]  

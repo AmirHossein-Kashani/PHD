@@ -13,7 +13,7 @@ updated: 2026-05-12
 > [!summary] In short
 > Main research category in Notion. Most paper notes live here. The page also has a useful map of how research agents search (what they search over, and how the search is controlled).
 
-**Project:** [[Auto Researcher]], [[Multi-Source Evidence RAG]]  
+**Project:** [[AR 0 - Start Here|Auto Researcher]], [[Multi-Source Evidence RAG]]  
 **Topics:** [[Autonomous Research Agents]]  
 **Original:** [Notion page](https://app.notion.com/p/35ed68da32f080e18d12f9e047b1c928)
 
@@ -106,4 +106,4 @@ updated: 2026-05-12
 - 2026-09-12 - [[Review - BC Children Related Works]] - Folder page for related work of the BC Children (multi-source) project.
 - 2026-09-13 - [[MedRAGChecker]] - Breaks an answer into claims and checks each claim with NLI on retrieved text and with a biomedical KG (DRKG or BioPortal).
 - 2026-09-14 - [[Contradictions in Context - Medical RAG]] - Shows that medical RAG is not reliable just because papers are relevant: similar papers can disagree. They filter out contradicting papers instead of explaining why.
-- 2026-10-14 - [[AR Paper - Introduction Draft]] - Draft of the auto-researcher paper introduction: levels of scientific agents, our level, limits (long context, planning, memory, exploration), closest systems and our contributions.
+- 2026-10-14 - [[AR 6 - Paper Draft (Introduction)]] - Draft of the auto-researcher paper introduction: levels of scientific agents, our level, limits (long context, planning, memory, exploration), closest systems and our contributions.

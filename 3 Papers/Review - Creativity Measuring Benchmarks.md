@@ -14,7 +14,7 @@ updated: 2026-08-14
 > [!summary] In short
 > Overview of benchmarks that measure creativity (CreativityBench, MacGyver, DeepMath-Creative, EscapeBench, MUTATE, bio tasks).
 
-**Project:** [[Creativity in Multi-Agent Debate]], [[Auto Researcher]]  
+**Project:** [[Creativity in Multi-Agent Debate]], [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Creativity and Exploration]], [[Benchmarks and Datasets]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Sub-notes:** [[EscapeBench]], [[GENEDISCO - Creativity View]], [[SMDD-Bench]], [[PMO - Practical Molecular Optimization]], [[BioDiscoveryAgent]], [[MUTATE - Divergent Thinking Benchmark]]  

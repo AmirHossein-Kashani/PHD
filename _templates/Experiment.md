@@ -11,7 +11,7 @@ tags: [type/report]
 > [!summary] In short
 > (question, main result, and what it means - in simple words)
 
-**Project:** [[Auto Researcher]] / [[Multi-Source Evidence RAG]] (keep one)
+**Project:** [[AR 0 - Start Here|Auto Researcher]] / [[Multi-Source Evidence RAG]] (keep one)
 
 ---
 

@@ -10,18 +10,18 @@ tags: [type/dashboard]
 
 ## Auto Researcher
 
-From [[AR - Meeting Log#2026-10-20 One-on-One|2026-10-20 One-on-One]], [[AR - Meeting Log#2026-10-14 One-on-One|2026-10-14 One-on-One]], [[01 Now and Next#Daily 2026-10-20 to 2026-10-23|Daily 2026-10-20 to 2026-10-23]]:
+From [[AR 7 - Meeting Log#2026-10-20 One-on-One|2026-10-20 One-on-One]], [[AR 7 - Meeting Log#2026-10-14 One-on-One|2026-10-14 One-on-One]], [[01 Now and Next#Daily 2026-10-20 to 2026-10-23|Daily 2026-10-20 to 2026-10-23]]:
 
-- [ ] **Make the introduction clearer** and improve the current version (Autoresearcher (6).pdf). → [[AR Paper - Introduction Draft]]
-- [ ] **Finalize baselines** for the researcher paper. → [[AR - Related Systems and Baselines]]
+- [ ] **Make the introduction clearer** and improve the current version (Autoresearcher (6).pdf). → [[AR 6 - Paper Draft (Introduction)]]
+- [ ] **Finalize baselines** for the researcher paper. → [[AR 4 - Related Work and Baselines]]
 - [ ] **Define the research steps** (explicit loop, maybe a literature-review step).
 - [ ] **Exploration vs expectation:** combine jumping ideas with refinement; decide how much of each.
 - [ ] **Fix the blocking rule** (it made agents less ambitious).
-- [ ] Choose **better evaluation tasks** than the Kaggle competition. → [[AR - Benchmarks]]
+- [ ] Choose **better evaluation tasks** than the Kaggle competition. → [[AR 3 - Benchmarks]]
 - [ ] Continue implementation and bug fixing on Fir; remove extra files.
 - [ ] Try the "5 new ideas" from 21 Oct (write them down in [[03 Ideas Inbox]]).
 
-More: [[AR - Open Questions]]
+More: [[AR 5 - Open Questions]]
 
 ## Multi-Source Evidence RAG
 

@@ -38,7 +38,7 @@ The note properties at the top (`type`, `date`, `status`, `projects`, `topics`, 
 ## 4. Where meetings and days are
 
 - A meeting is **not a note**. Its content is split by subject and stored as a dated entry (`### 2026-10-14 One-on-One`) inside:
-  - [[AR - Meeting Log]] and [[MS - Meeting Log]] for the two active projects,
+  - [[AR 7 - Meeting Log]] and [[MS - Meeting Log]] for the two active projects,
   - the "Notes from meetings" section of the older project hubs and of the topic notes.
 - Each entry has a link to the original Notion page and links to the other parts of the same meeting.
 - Daily plans are in [[01 Now and Next#Daily log]].
@@ -59,9 +59,9 @@ Turn on the **Templates** core plugin (Settings > Core plugins > Templates) and 
 
 | Template | Use it for | Where it goes |
 |---|---|---|
-| `Meeting entry` | a one-on-one or group meeting | insert it at the top of the entries in [[AR - Meeting Log]], [[MS - Meeting Log]] or the topic note it is about (no new note) |
+| `Meeting entry` | a one-on-one or group meeting | insert it at the top of the entries in [[AR 7 - Meeting Log]], [[MS - Meeting Log]] or the topic note it is about (no new note) |
 | `Daily entry` | your plan for the day | insert it at the top of [[01 Now and Next#Daily log]] (no new note) |
-| `Paper` | one paper you read | new note, short paper name, in `3 Papers` |
+| `Paper` | one paper you read | new note, short paper name, in `3 Papers`. A research-agent system for the Auto Researcher related work goes in `1 Projects/Auto Researcher/AR 4 - Related Work/<group>` instead |
 | `Experiment` | one experiment run and its results | new note, short name (no date in the name), in `4 Reports` |
 | `Idea` | a bigger idea (or just add a row to [[03 Ideas Inbox]]) | new note, short idea name |
 

@@ -58,20 +58,20 @@ timeline
 - **11-12 Aug** - Reversible Exploration and Retro-Fork documents; [[Mage - Memory as Execution State|Mage]], [[EviGraph - Evidence-Guided Research Agents|EviGraph]], **[[Arbor - Hypothesis Tree Refinement|Arbor]]**
 - **13-14 Aug** - creativity benchmarks: [[EscapeBench]], [[MUTATE - Divergent Thinking Benchmark|MUTATE]], [[PMO - Practical Molecular Optimization|PMO]], [[SMDD-Bench]], [[BioDiscoveryAgent]]. [[Creativity in Multi-Agent Debate#2026-08-13 One-on-One (13 and 20 Aug)|2026-08-13 One-on-One (13 and 20 Aug)]]
 - **19-20 Aug** - **creativity experiments 1 and 2**. [[Creativity Experiments - Key Findings]]
-- **25 Aug** - AMG-RAG Phase 9; drug repurposing benchmarks; quality-diversity on Arbor idea. [[AR - Meeting Log#2026-08-25 One-on-One|2026-08-25 One-on-One]], [[AMG-RAG Phase 9 - How It Works]]
+- **25 Aug** - AMG-RAG Phase 9; drug repurposing benchmarks; quality-diversity on Arbor idea. [[AR 7 - Meeting Log#2026-08-25 One-on-One|2026-08-25 One-on-One]], [[AMG-RAG Phase 9 - How It Works]]
 - **27-28 Aug** - AMG-RAG phase reports and Phase 11 method note. [[AMG-RAG Phase Evolution Report]], [[AMG-RAG Phase 11 - Method Note]]
 
 ## September 2026 - results and Arbor phases
 
-- **1 Sep** - **Phase 13 chosen** as main research configuration; baselines for idea agents; DrugMechDB inverted idea. [[AR - Meeting Log#2026-09-01 One-on-One|2026-09-01 One-on-One]], [[AMG-RAG Final Conclusion]]
+- **1 Sep** - **Phase 13 chosen** as main research configuration; baselines for idea agents; DrugMechDB inverted idea. [[AR 7 - Meeting Log#2026-09-01 One-on-One|2026-09-01 One-on-One]], [[AMG-RAG Final Conclusion]]
 - **8 Sep** - [[MedRAGChecker]], [[Contradictions in Context - Medical RAG]]; methodology writing; proposal. [[MS - Meeting Log#2026-09-08 One-on-One|2026-09-08 One-on-One]]
-- **21 Sep** - **Arbor Phase 1 vs default** results; AMG-RAG architecture updated. [[AR - Meeting Log#2026-09-21 One-on-One|2026-09-21 One-on-One]]
-- **29 Sep** - Phase 2 and Claude Code baseline; AMG-RAG repo and trajectory; PGxQA etc. [[AR - Meeting Log#2026-09-29 One-on-One|2026-09-29 One-on-One]]
+- **21 Sep** - **Arbor Phase 1 vs default** results; AMG-RAG architecture updated. [[AR 7 - Meeting Log#2026-09-21 One-on-One|2026-09-21 One-on-One]]
+- **29 Sep** - Phase 2 and Claude Code baseline; AMG-RAG repo and trajectory; PGxQA etc. [[AR 7 - Meeting Log#2026-09-29 One-on-One|2026-09-29 One-on-One]]
 
 ## October 2026 - writing
 
 - **7 Oct** - multi-source paper outline, datasets and baselines. [[MS - Meeting Log#2026-10-07 BC Children Meeting|2026-10-07 BC Children Meeting]]
-- **14 Oct** - Kaggle results for four scaffolds; related work notes; intro outline. [[AR - Meeting Log#2026-10-14 One-on-One|2026-10-14 One-on-One]], [[AR Paper - Introduction Draft]]
+- **14 Oct** - Kaggle results for four scaffolds; related work notes; intro outline. [[AR 7 - Meeting Log#2026-10-14 One-on-One|2026-10-14 One-on-One]], [[AR 6 - Paper Draft (Introduction)]]
 - **15-19 Oct** - baselines final for multi-evidence; Overleaf started for the auto-researcher intro. [[01 Now and Next#Daily 2026-10-15 to 2026-10-19|Daily 2026-10-15 to 2026-10-19]]
-- **20 Oct** - intro done; exploration vs expectation; plan to move to Obsidian. [[AR - Meeting Log#2026-10-20 One-on-One|2026-10-20 One-on-One]]
+- **20 Oct** - intro done; exploration vs expectation; plan to move to Obsidian. [[AR 7 - Meeting Log#2026-10-20 One-on-One|2026-10-20 One-on-One]]
 - **21-23 Oct** - LLM/attention lectures, 5 new ideas, Think-on-Graph v3, plan for multi-source experiments. [[01 Now and Next#Daily 2026-10-20 to 2026-10-23|Daily 2026-10-20 to 2026-10-23]]

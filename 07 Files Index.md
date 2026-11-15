@@ -13,7 +13,7 @@ tags: [type/index]
 | [[AMG-RAG - Paper Summary]] | Agentic Medical Knowledge Graphs Enhance Medical Question Answering.pdf | 1.6 MiB | [open](https://app.notion.com/p/381d68da32f080ccbc5eda1f366aae4e) |
 | [[AMG-RAG Five Best Answers]] | Five_Best.md | 176.1 KiB | [open](https://app.notion.com/p/3ced68da32f080d2bdbbc10902ad2a08) |
 | [[AMG-RAG Phases Report (Scores)]] | Phases Report.md | 380.3 KiB | [open](https://app.notion.com/p/3c7d68da32f08095980cee1644776b68) |
-| [[AR - Meeting Log#2026-10-20 One-on-One\|AR - Meeting Log - 2026-10-20 One-on-One]] | Autoresearcher (6).pdf | 205.3 KiB | [open](https://app.notion.com/p/3ffd68da32f080759fc4f51afeba7a6b) |
+| [[AR 7 - Meeting Log#2026-10-20 One-on-One\|AR - Meeting Log - 2026-10-20 One-on-One]] | Autoresearcher (6).pdf | 205.3 KiB | [open](https://app.notion.com/p/3ffd68da32f080759fc4f51afeba7a6b) |
 | [[Agent Architectures and Frameworks#2026-05-21 Explore CS Talk - PINC\|Agent Architectures and Frameworks - 2026-05-21 Explore CS Talk - PINC]] | PINC-2026.pdf | 372.1 KiB | [open](https://app.notion.com/p/367d68da32f080f8825ffbc6625c688c) |
 | [[CodeAct]] | Executable Code Actions Elicit Better LLM Agents.pdf | 3.9 MiB | [open](https://app.notion.com/p/363d68da32f08024b8cbc9428df0d6a4) |
 | [[Creativity and Exploration#2026-05-26 One-on-One\|Creativity and Exploration - 2026-05-26 One-on-One]] | Report_26thMay.pptx | 2 MiB | [open](https://app.notion.com/p/36cd68da32f080098284d67d9b811972) |

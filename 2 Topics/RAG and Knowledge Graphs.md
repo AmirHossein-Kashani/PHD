@@ -66,7 +66,7 @@ tags: [type/topic, topic/rag-and-knowledge-graphs]
 - [[AMG-RAG Phase 9 - How It Works]] - Phase 9 of AMG-RAG: search related KG entities together as one PubMed AND-query, with back-off, then read open full text.
 - [[AMG-RAG Phases Report (Scores)]] - Phase catalogue, scores (on-topic %, grounded %, ClinPGx-valid %, false premise), search shape and genes found per phase.
 
-### Papers (10)
+### Papers (11)
 
 - [[AMG-RAG - Paper Review Notes]] - My review/feedback notes on the AMG-RAG paper (agentic medical KG for QA).
 - [[AMG-RAG - Paper Summary]] - AMG-RAG: LLM agents build and update a medical KG from live sources and reason over it. Our multi-source project extends this system.
@@ -78,6 +78,7 @@ tags: [type/topic, topic/rag-and-knowledge-graphs]
 - [[MedGraphRAG]] - Graph RAG for medicine with a three-tier KG (patient data, literature, UMLS) and U-Retrieval. Too complex for us.
 - [[MedRAGChecker]] - Breaks an answer into claims and checks each claim with NLI on retrieved text and with a biomedical KG (DRKG or BioPortal).
 - [[MindMap - KG Prompting for LLMs]] - MindMap: extract path-based and neighbor-based evidence subgraphs from a KG, then let the LLM reason over them. Used as a baseline in the multi-source project.
+- [[ResearchAgent - Iterative Idea Generation]] - Research ideas from a core paper, a citation graph and an entity co-occurrence store, refined by 15 reviewer agents. No experiments (NAACL 2025).
 
 ### Literature reviews and lists (5)
 

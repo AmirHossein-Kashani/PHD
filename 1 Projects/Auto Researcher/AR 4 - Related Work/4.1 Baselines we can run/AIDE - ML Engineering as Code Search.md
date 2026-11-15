@@ -14,7 +14,7 @@ updated: 2026-08-13
 > [!summary] In short
 > AIDE searches over whole Python scripts with a solution tree. No shared knowledge, no merging. Close to our idea and a search baseline.
 
-**Project:** [[Auto Researcher]], [[Reversible Exploration (ARIADNE and Retro-Fork)]]  
+**Project:** [[AR 0 - Start Here|Auto Researcher]], [[Reversible Exploration (ARIADNE and Retro-Fork)]]  
 **Topics:** [[Autonomous Research Agents]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Baselines for Gaps Protocol]]  

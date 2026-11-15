@@ -6,7 +6,7 @@ tags: [type/topic, topic/benchmarks-and-datasets]
 # Benchmarks and Datasets
 
 > [!summary] In short
-> All benchmarks and datasets that appear in the notes, grouped by what they test. For project-specific choices see [[AR - Benchmarks]] and [[MS - Paper Plan (Baselines and Datasets)]].
+> All benchmarks and datasets that appear in the notes, grouped by what they test. For project-specific choices see [[AR 3 - Benchmarks]] and [[MS - Paper Plan (Baselines and Datasets)]].
 
 ## Research agents and ML engineering
 - Kaggle competition (current AR test), [[RE-Bench]], [[ALE-Bench]], [[BioML-bench]], Scientist-Bench, ARC-Bench-ML, NanoResearch-20, MLE-bench.
@@ -15,7 +15,7 @@ tags: [type/topic, topic/benchmarks-and-datasets]
 - [[Biomni - General Biomedical Agent|Biomni]], [[BixBench]], [[GENEDISCO]], [[BioDiscoveryAgent]], [[PMO - Practical Molecular Optimization|PMO]], [[SMDD-Bench]].
 
 ## Drug repurposing (for long-horizon research)
-- TRACES DRR (10/10), SerenQA, KG-Bench, repoDB, DrugMechDB (and the "inverted" idea), PrimeKG-CL. Details: [[AR - Benchmarks#4. Drug repurposing benchmarks (ranking from 25 Aug)]].
+- TRACES DRR (10/10), SerenQA, KG-Bench, repoDB, DrugMechDB (and the "inverted" idea), PrimeKG-CL. Details: [[AR 3 - Benchmarks#4. Drug repurposing benchmarks (ranking from 25 Aug)]].
 
 ## Medical QA and evidence (multi-source project)
 - **BioASQ list questions** (chosen), PGxQA, HealthContradict, PGxCorpus, RiTeK-PharmKG, STaRK-Prime, BioMedHop, PubMedQA, MedQuAD, LiveQA, MedRedQA, MedQA (used in `med_ddx`), our 10 ADR questions.
@@ -33,7 +33,7 @@ tags: [type/topic, topic/benchmarks-and-datasets]
 ### 2026-08-25 One-on-One
 
 *Original: [Notion page](https://app.notion.com/p/3c7d68da32f080afbd74d869eda9829a)*  
-*Other parts of this meeting:* [[AR - Meeting Log#2026-08-25 One-on-One|AR - Meeting Log]], [[Creativity in Multi-Agent Debate#2026-08-25 One-on-One|Creativity in Multi-Agent Debate]], [[Agent Architectures and Frameworks#2026-08-25 One-on-One|Agent Architectures and Frameworks]], [[Creativity and Exploration#2026-08-25 One-on-One|Creativity and Exploration]], [[MS - Meeting Log#2026-08-25 One-on-One|MS - Meeting Log]]
+*Other parts of this meeting:* [[AR 7 - Meeting Log#2026-08-25 One-on-One|AR - Meeting Log]], [[Creativity in Multi-Agent Debate#2026-08-25 One-on-One|Creativity in Multi-Agent Debate]], [[Agent Architectures and Frameworks#2026-08-25 One-on-One|Agent Architectures and Frameworks]], [[Creativity and Exploration#2026-08-25 One-on-One|Creativity and Exploration]], [[MS - Meeting Log#2026-08-25 One-on-One|MS - Meeting Log]]
 
 | Benchmark | Fits | My fit score | Why |
 |---|---|---|---|
@@ -51,8 +51,9 @@ tags: [type/topic, topic/benchmarks-and-datasets]
 
 - [[Creativity Experiments - Datasets]] - The 4 small datasets used in the creativity experiments: med_ddx (real MedQA), med_repurpose (synthetic), gen_aut (alternative uses), gen_problems (synthetic city...
 
-### Papers (16)
+### Papers (17)
 
+- [[AI-Researcher and Scientist-Bench]] - Paper-to-paper pipeline with an advisor agent; Scientist-Bench of 22 papers, judged by LLMs (NeurIPS 2025).
 - [[ALE-Bench]] - Score-based long-horizon algorithm engineering from 40 AtCoder heuristic contests. Results map to human rankings.
 - [[BioDiscoveryAgent]] - Stanford agent that designs gene perturbation experiments. Main metric: cumulative hit ratio over rounds.
 - [[BioML-bench]] - 24 end-to-end biomedical ML tasks (drug discovery, imaging, protein engineering, single-cell). Tests full ML pipelines by agents.

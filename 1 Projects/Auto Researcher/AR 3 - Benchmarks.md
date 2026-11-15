@@ -3,12 +3,16 @@ type: project-note
 project: Auto Researcher
 tags: [type/project-note, project/auto-researcher, topic/benchmarks-and-datasets]
 ---
-# AR - Benchmarks
+# AR 3 - Benchmarks
 
-Part of [[Auto Researcher]]. See also the general list in [[Benchmarks and Datasets]].
+Part of [[AR 0 - Start Here|Auto Researcher]]. See also the general list in [[Benchmarks and Datasets]].
 
 > [!summary] In short
 > We need tasks with an **automatic, hidden and fair score**, so that a change in the agent can be measured. The current Kaggle task works but has problems (few final submissions, agents can copy public answers). Below are all candidate benchmarks from the notes, grouped by type.
+
+> [!info] Status (27 Oct 2026)
+> - The Kaggle task is **not** the final evaluation (decision of 14 Oct, see [[04 Decisions Log]]).
+> - Under discussion (Claude's suggestion on 26 Oct, **not decided**): **MLE-bench Lite** run offline as the main benchmark (hidden test labels, no web access, and many recent baselines report on it), plus **MLRC-Bench** as a smaller second benchmark for the "research" claim. Drug-repurposing benchmarks later.
 
 ---
 
@@ -27,7 +31,7 @@ Part of [[Auto Researcher]]. See also the general list in [[Benchmarks and Datas
 | [[RE-Bench]] | 7 open-ended ML research engineering environments with a scoring function | Human expert comparison |
 | [[ALE-Bench]] | 40 AtCoder heuristic contests, score-based, long-horizon | Maps to human rankings |
 | [[BioML-bench]] | 24 biomedical ML tasks (drug discovery, imaging, proteins, single-cell) | See [[BioML-bench - Drug Discovery Tasks]] |
-| ARC-Bench-ML, NanoResearch-20 | Datasets named in the August notes | Not studied yet |
+| ARC-Bench-ML, NanoResearch-20 | Datasets named in the August notes | Not studied yet. ARC-Bench may be the one from [[AutoResearchClaw]] (25 ML + 20 science topics, LLM-judged) |
 | Scientist-Bench (AI-Researcher) | 22 AI papers as targets | Weak: contamination, LLM-only judging |
 | MLE-bench style tasks | Base of BioML-bench. MLE-bench Lite (22 Kaggle tasks) is used by [[AIRA-dojo - Search Policies and Operators\|AIRA-dojo]] | Kaggle-based: same copying risk as our task |
 | [[FML-bench - Search Dynamics of Research Agents\|FML-bench]] | 18 ML research tasks in 10 areas (fairness, privacy, robustness, continual learning, ...), each starting from a real repo; 100-step budget | Built to compare the search behavior of agents; reports process metrics and the val-test gap |
@@ -64,5 +68,5 @@ Part of [[Auto Researcher]]. See also the general list in [[Benchmarks and Datas
 
 ## Related
 
-- [[AR - Open Questions]]
+- [[AR 5 - Open Questions]]
 - [[Benchmarks and Datasets]]

@@ -14,7 +14,7 @@ updated: 2026-08-02
 > [!summary] In short
 > Seven open-ended ML research engineering environments with a scoring function, compared with human experts.
 
-**Project:** [[Reversible Exploration (ARIADNE and Retro-Fork)]], [[Auto Researcher]]  
+**Project:** [[Reversible Exploration (ARIADNE and Retro-Fork)]], [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Benchmarks and Datasets]], [[Autonomous Research Agents]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Benchmarks for MoA and Multi-Agent Systems]]  

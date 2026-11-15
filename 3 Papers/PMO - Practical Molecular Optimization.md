@@ -15,7 +15,7 @@ updated: 2026-08-19
 > [!summary] In short
 > Benchmark with 23 molecule objectives and a 10K oracle budget; scores the path too (AUC top-10). Idea: use intermediate rewards in long horizons.
 
-**Project:** [[Creativity in Multi-Agent Debate]], [[Auto Researcher]]  
+**Project:** [[Creativity in Multi-Agent Debate]], [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Biomedicine and Drug Discovery]], [[Benchmarks and Datasets]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Creativity Measuring Benchmarks]]  

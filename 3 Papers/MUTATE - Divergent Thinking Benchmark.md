@@ -14,7 +14,7 @@ updated: 2026-08-18
 > [!summary] In short
 > Text sandboxes where the obvious solution fails. Measures path-level and action-level divergence of agents. Close to EscapeBench.
 
-**Project:** [[Creativity in Multi-Agent Debate]], [[Auto Researcher]]  
+**Project:** [[Creativity in Multi-Agent Debate]], [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Creativity and Exploration]], [[Benchmarks and Datasets]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Creativity Measuring Benchmarks]]  

@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#type/home OR tag:#type/dashboard OR tag:#type/timeline OR tag:#type/ideas OR tag:#type/decisions",
@@ -88,6 +88,6 @@
   "repelStrength": 12,
   "linkStrength": 1,
   "linkDistance": 200,
-  "scale": 1.4019828977760815,
+  "scale": 0.9999999999999741,
   "close": false
 }

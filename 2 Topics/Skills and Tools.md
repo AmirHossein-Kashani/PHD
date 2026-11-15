@@ -32,7 +32,7 @@ tags: [type/topic, topic/skills-and-tools]
 ### 2026-10-20 One-on-One
 
 *Original: [Notion page](https://app.notion.com/p/3ffd68da32f080759fc4f51afeba7a6b)*  
-*Other parts of this meeting:* [[AR - Meeting Log#2026-10-20 One-on-One|AR - Meeting Log]], [[MS - Meeting Log#2026-10-20 One-on-One|MS - Meeting Log]]
+*Other parts of this meeting:* [[AR 7 - Meeting Log#2026-10-20 One-on-One|AR - Meeting Log]], [[MS - Meeting Log#2026-10-20 One-on-One|MS - Meeting Log]]
 
 #### what to talk and todo
 - [ ] I also want to migrate to obsidian for holding contents

@@ -16,7 +16,7 @@ updated: 2026-10-27
 > [!summary] In short
 > Meta's study of research agents on MLE-bench. An agent = a **search policy** (greedy, MCTS, evolution) + a set of **operators** (draft, debug, improve, memory, crossover). Better operators mattered more than the choice of search policy. Agents also overfit to validation, the same problem we saw on Kaggle.
 
-**Project:** [[Auto Researcher]]  
+**Project:** [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Autonomous Research Agents]], [[Creativity and Exploration]]  
 **Original:** [arXiv 2507.02554](https://arxiv.org/abs/2507.02554) · [NeurIPS 2025](https://proceedings.nips.cc/paper_files/paper/2025/hash/328b81881da145412f2bc56c998dfb6a-Abstract-Conference.html)
 
@@ -69,9 +69,9 @@ Which part of a research agent makes it good: the **search policy** or the **act
 ## How it relates to my work
 
 - **Similar to:** our Arbor-based loop is also a search policy plus operators. Their scoped memory (siblings vs ancestors) is close to our "parent history only" idea (path to the root).
-- **Different from my work because:** their memory is scoped by operator but does not store *why* a decision was taken or what would overturn it, and there is no shared failure memory across branches (see [[AR - Method and Contributions]]).
-- **Can I use it as a baseline?** Yes: AIRA-Greedy or AIRA-MCTS as search baselines. MLE-bench Lite is an evaluation option, with the Kaggle problems noted in [[AR - Benchmarks]].
-- **Supports our Kaggle finding** that good validation scores did not give good final scores ([[AR - Experiments and Results]]). They measured this gap directly.
+- **Different from my work because:** their memory is scoped by operator but does not store *why* a decision was taken or what would overturn it, and there is no shared failure memory across branches (see [[AR 1 - Problem and Method]]).
+- **Can I use it as a baseline?** Yes: AIRA-Greedy or AIRA-MCTS as search baselines. MLE-bench Lite is an evaluation option, with the Kaggle problems noted in [[AR 3 - Benchmarks]].
+- **Supports our Kaggle finding** that good validation scores did not give good final scores ([[AR 2 - Experiments and Results]]). They measured this gap directly.
 
 ## Ideas it gave me
 

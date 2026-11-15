@@ -16,7 +16,7 @@ updated: 2026-10-27
 > [!summary] In short
 > A benchmark of 18 ML research tasks used to compare six research agents (greedy, tree search, MCTS, evolution) with the same tools and budget. Early improvement predicts the final score, and scattered search does not help. Their **AdaptiveSearch** (greedy first, then branch when progress stalls) is the closest published version of our "jumping ideas + refinement" idea, so it is a must-cite and a likely baseline.
 
-**Project:** [[Auto Researcher]]  
+**Project:** [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Autonomous Research Agents]], [[Creativity and Exploration]], [[Benchmarks and Datasets]]  
 **Original:** [arXiv 2605.17373](https://arxiv.org/abs/2605.17373) ([HTML v2](https://arxiv.org/html/2605.17373v2))
 
@@ -43,9 +43,9 @@ Research agents use different search strategies (greedy, trees, evolution), but 
 
 | Agent | Search style |
 |---|---|
-| Autoresearch | greedy hill-climbing |
-| AI Scientist v1 | parallel linear idea chains |
-| AI Scientist v2 | best-first tree search with an LLM journal |
+| [[Autoresearch (Karpathy)\|Autoresearch]] | greedy hill-climbing |
+| [[The AI Scientist (v1 and v2)\|AI Scientist v1]] | parallel linear idea chains |
+| [[The AI Scientist (v1 and v2)\|AI Scientist v2]] | best-first tree search with an LLM journal |
 | [[AIDE - ML Engineering as Code Search\|AIDE]] | solution tree with improve and debug |
 | AIRA ([[AIRA-dojo - Search Policies and Operators\|AIRA-dojo]]) | UCT Monte Carlo tree search |
 | OpenEvolve | MAP-Elites with islands (open version of [[AlphaEvolve]]) |
@@ -81,9 +81,9 @@ Research agents use different search strategies (greedy, trees, evolution), but 
 
 ## How it relates to my work
 
-- **Similar to:** our open question on exploration vs refinement ([[AR - Open Questions]]). AdaptiveSearch is "refine until stuck, then jump", which is very close to combining jumping ideas with refinement.
-- **Different from my work because:** their branches keep the same context. There is no path to the root with overturn conditions, no shared failure memory, and no way to graft a branch's insight back into the main line (see [[AR - Method and Contributions]]).
-- **Can I use it as a baseline?** Yes. AdaptiveSearch is a natural exploration baseline. The benchmark itself is a candidate evaluation task with real repos and a separate test score (see [[AR - Benchmarks]]).
+- **Similar to:** our open question on exploration vs refinement ([[AR 5 - Open Questions]]). AdaptiveSearch is "refine until stuck, then jump", which is very close to combining jumping ideas with refinement.
+- **Different from my work because:** their branches keep the same context. There is no path to the root with overturn conditions, no shared failure memory, and no way to graft a branch's insight back into the main line (see [[AR 1 - Problem and Method]]).
+- **Can I use it as a baseline?** Yes. AdaptiveSearch is a natural exploration baseline. The benchmark itself is a candidate evaluation task with real repos and a separate test score (see [[AR 3 - Benchmarks]]).
 - **Useful for the paper text:** "diversity alone is not enough". Uniqueness did not predict the score; early gains and focused depth did.
 
 ## Ideas it gave me

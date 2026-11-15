@@ -11,7 +11,7 @@ tags: [type/idea]
 > [!summary] In short
 > (the idea in one sentence)
 
-**Project:** [[Auto Researcher]] / [[Multi-Source Evidence RAG]] (keep one)  
+**Project:** [[AR 0 - Start Here|Auto Researcher]] / [[Multi-Source Evidence RAG]] (keep one)  
 **Came from:** (link the note where the idea came from)
 
 ## Why it could work

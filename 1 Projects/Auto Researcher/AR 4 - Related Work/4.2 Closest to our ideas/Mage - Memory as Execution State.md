@@ -14,7 +14,7 @@ updated: 2026-08-12
 > [!summary] In short
 > Memory for long-horizon agents as execution state: one layer for raw step data, one layer for summaries. Critical of plain RAG memory.
 
-**Project:** [[Auto Researcher]], [[Reversible Exploration (ARIADNE and Retro-Fork)]]  
+**Project:** [[AR 0 - Start Here|Auto Researcher]], [[Reversible Exploration (ARIADNE and Retro-Fork)]]  
 **Topics:** [[Memory and Long Context]], [[Autonomous Research Agents]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Part of:** [[Review - Baselines for Gaps Protocol]]  

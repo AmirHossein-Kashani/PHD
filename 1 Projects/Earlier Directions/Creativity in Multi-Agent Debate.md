@@ -9,7 +9,7 @@ tags: [type/hub, project/creativity-debate, topic/creativity-and-exploration, to
 > [!summary] In short
 > Two small experiments (August 2026) asked: **can we make a group of debating LLM agents more creative?** Main answers: if all agents see the same context they **agree too fast** and become *less* creative than one agent. **Giving each agent a different persona** (reasoning stance) is the best and cheapest way to get diversity. The **aggregator** (the step that merges ideas) matters more than the context, but ranking by originality **lost the correct medical diagnosis**. So: give two lists - a safe list and a speculative list.
 
-Status: **paused** (screening results only, 1 repeat). The lessons feed the [[Auto Researcher]] (exploration, diversity of agents).
+Status: **paused** (screening results only, 1 repeat). The lessons feed the [[AR 0 - Start Here|Auto Researcher]] (exploration, diversity of agents).
 
 Main notes: [[Creativity Experiments - Key Findings]] (start here), [[Creativity Exp 1 - Index and Conclusion]], [[Creativity Exp 1 - Full Results]], [[Creativity Exp 2 - Conclusion]], [[Creativity Exp 2 - Full Results]], [[Creativity Experiments - Datasets]], meeting [[Creativity in Multi-Agent Debate#2026-08-13 One-on-One (13 and 20 Aug)|2026-08-13 One-on-One (13 and 20 Aug)]].
 
@@ -76,7 +76,7 @@ Persona vs identical context, **3 or more repeats**, dual-output aggregator, gol
 ### 2026-08-25 One-on-One
 
 *Original: [Notion page](https://app.notion.com/p/3c7d68da32f080afbd74d869eda9829a)*  
-*Other parts of this meeting:* [[AR - Meeting Log#2026-08-25 One-on-One|AR - Meeting Log]], [[Benchmarks and Datasets#2026-08-25 One-on-One|Benchmarks and Datasets]], [[Agent Architectures and Frameworks#2026-08-25 One-on-One|Agent Architectures and Frameworks]], [[Creativity and Exploration#2026-08-25 One-on-One|Creativity and Exploration]], [[MS - Meeting Log#2026-08-25 One-on-One|MS - Meeting Log]]
+*Other parts of this meeting:* [[AR 7 - Meeting Log#2026-08-25 One-on-One|AR - Meeting Log]], [[Benchmarks and Datasets#2026-08-25 One-on-One|Benchmarks and Datasets]], [[Agent Architectures and Frameworks#2026-08-25 One-on-One|Agent Architectures and Frameworks]], [[Creativity and Exploration#2026-08-25 One-on-One|Creativity and Exploration]], [[MS - Meeting Log#2026-08-25 One-on-One|MS - Meeting Log]]
 
 - [ ] find new datasets for creativity
 

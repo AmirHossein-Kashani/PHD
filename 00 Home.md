@@ -5,14 +5,14 @@ tags: [type/home]
 # PhD Research - Home
 
 > [!summary] Start here
-> This vault holds **everything from the Notion page "Phd research plan"** (May to October 2026), organized as a graph of **projects, topics, papers and reports**. Meetings are not nodes: their content is stored inside the project and topic notes, by date. There are **two active projects**: the **[[Auto Researcher]]** (an Arbor-based autonomous research agent) and the **[[Multi-Source Evidence RAG]]** (KG + PubMed evidence system for drug side effects, the BC Children project). Everything else is linked to them.
+> This vault holds **everything from the Notion page "Phd research plan"** (May to October 2026), organized as a graph of **projects, topics, papers and reports**. Meetings are not nodes: their content is stored inside the project and topic notes, by date. There are **two active projects**: the **[[AR 0 - Start Here|Auto Researcher]]** (an Arbor-based autonomous research agent) and the **[[Multi-Source Evidence RAG]]** (KG + PubMed evidence system for drug side effects, the BC Children project). Everything else is linked to them.
 
 **Last update from Notion:** 23 Oct 2026.
 
 ## What to open first
 
 1. [[01 Now and Next]] - what to do this week, for each project
-2. [[Auto Researcher]] - project hub
+2. [[AR 0 - Start Here|Auto Researcher]] - project hub
 3. [[Multi-Source Evidence RAG]] - project hub
 4. [[02 Timeline]] - the whole story, month by month
 5. [[03 Ideas Inbox]] - all my own ideas in one place
@@ -45,7 +45,7 @@ flowchart TB
 
 | Project | Status | Hub | Next step |
 |---|---|---|---|
-| **Auto Researcher** | active - writing paper | [[Auto Researcher]] | make the introduction clearer; choose baselines and better tasks |
+| **Auto Researcher** | active - writing paper | [[AR 0 - Start Here\|Auto Researcher]] | make the introduction clearer; choose baselines and better tasks |
 | **Multi-Source Evidence RAG** | active - starting experiments | [[Multi-Source Evidence RAG]] | run experiments on BioASQ list questions vs 5 baselines |
 | Creativity in Multi-Agent Debate | paused (Aug 2026) | [[Creativity in Multi-Agent Debate]] | lessons used in Auto Researcher |
 | Claim-Level Conflict in Debate | paused (Jul 2026) | [[Claim-Level Conflict in Debate]] | ideas used in the contradiction layer |
@@ -93,7 +93,7 @@ flowchart TB
 
 Meetings are **not separate notes**. Their content was split by subject and put into the project and topic notes, with the date and a link to the Notion page:
 
-- [[AR - Meeting Log]] - all meeting notes about the Auto Researcher
+- [[AR 7 - Meeting Log]] - all meeting notes about the Auto Researcher
 - [[MS - Meeting Log]] - all meeting notes about the Multi-Source project
 - Older meetings (May-August) are in the "Notes from meetings" section of [[Early Exploration (May-June 2026)]], [[Claim-Level Conflict in Debate]], [[Reversible Exploration (ARIADNE and Retro-Fork)]], [[Creativity in Multi-Agent Debate]] and of the topic notes
 - Daily plans: [[01 Now and Next#Daily log]]

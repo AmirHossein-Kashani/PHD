@@ -19,7 +19,7 @@ tags: [type/topic, topic/biomedicine-and-drug-discovery]
 ## Where it is used
 
 - [[Multi-Source Evidence RAG]]
-- [[Auto Researcher]] (possible tasks)
+- [[AR 0 - Start Here|Auto Researcher]] (possible tasks)
 - [[Early Exploration (May-June 2026)]] (protein and molecule generation)
 
 ## Notes from meetings
@@ -60,7 +60,7 @@ tags: [type/topic, topic/biomedicine-and-drug-discovery]
 - [[AMG-RAG Phase Evolution Report]] - Story of all AMG-RAG phases from baseline to Phase 13. Phase 11 is most precise; Phase 13 is best for finding and explaining contradictions.
 - [[AMG-RAG Phase 9 - How It Works]] - Phase 9 of AMG-RAG: search related KG entities together as one PubMed AND-query, with back-off, then read open full text.
 
-### Papers (19)
+### Papers (21)
 
 - [[AMG-RAG - Paper Review Notes]] - My review/feedback notes on the AMG-RAG paper (agentic medical KG for QA).
 - [[AMG-RAG - Paper Summary]] - AMG-RAG: LLM agents build and update a medical KG from live sources and reason over it. Our multi-source project extends this system.
@@ -74,10 +74,12 @@ tags: [type/topic, topic/biomedicine-and-drug-discovery]
 - [[Contradictions in Context - Medical RAG]] - Shows that medical RAG is not reliable just because papers are relevant: similar papers can disagree. They filter out contradicting papers instead of explaining why.
 - [[GENEDISCO]] - Benchmark for choosing which genes to test next in costly experiments (active learning for drug target discovery).
 - [[GENEDISCO - Creativity View]] - GENEDISCO seen as a creativity test: maximize target discovery rate and model performance.
+- [[Google AI Co-Scientist]] - Generate, debate, Elo-rank and evolve biomedical hypotheses (Nature 2026). No public code; does not run its own experiments.
 - [[MedGraphRAG]] - Graph RAG for medicine with a three-tier KG (patient data, literature, UMLS) and U-Retrieval. Too complex for us.
 - [[MedRAGChecker]] - Breaks an answer into claims and checks each claim with NLI on retrieved text and with a biomedical KG (DRKG or BioPortal).
 - [[Molecule Generation for Drug Design - Graph Learning View]] - Reading item (no notes yet): molecule generation for drug design from a graph learning view.
 - [[PMO - Practical Molecular Optimization]] - Benchmark with 23 molecule objectives and a 10K oracle budget; scores the path too (AUC top-10). Idea: use intermediate rewards in long horizons.
+- [[Robin - Drug Repurposing Agent]] - FutureHouse literature and data-analysis agents for drug repurposing; found ripasudil for dry AMD (Nature 2026). Needs the paid Edison API.
 - [[SAGA]] - SAGA paper files. We tried to run SAGA (Compute Canada, then cloud with gpt-mini).
 - [[SMDD-Bench]] - 502 medicinal-chemistry tasks over 102 protein targets (pharmacophore, interaction points, scaffold hopping, ...).
 - [[Virtual Lab]] - AI agents (PI, scientists, critic) hold meetings to design SARS-CoV-2 nanobodies (Nature 2025).

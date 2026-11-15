@@ -20,7 +20,7 @@ tags: [type/topic, topic/creativity-and-exploration]
 
 ## Where it is used
 
-- [[Auto Researcher]] (exploration budget)
+- [[AR 0 - Start Here|Auto Researcher]] (exploration budget)
 - [[Creativity in Multi-Agent Debate]]
 - [[Early Exploration (May-June 2026)]] (the starting question)
 
@@ -31,7 +31,7 @@ tags: [type/topic, topic/creativity-and-exploration]
 ### 2026-08-25 One-on-One
 
 *Original: [Notion page](https://app.notion.com/p/3c7d68da32f080afbd74d869eda9829a)*  
-*Other parts of this meeting:* [[AR - Meeting Log#2026-08-25 One-on-One|AR - Meeting Log]], [[Creativity in Multi-Agent Debate#2026-08-25 One-on-One|Creativity in Multi-Agent Debate]], [[Benchmarks and Datasets#2026-08-25 One-on-One|Benchmarks and Datasets]], [[Agent Architectures and Frameworks#2026-08-25 One-on-One|Agent Architectures and Frameworks]], [[MS - Meeting Log#2026-08-25 One-on-One|MS - Meeting Log]]
+*Other parts of this meeting:* [[AR 7 - Meeting Log#2026-08-25 One-on-One|AR - Meeting Log]], [[Creativity in Multi-Agent Debate#2026-08-25 One-on-One|Creativity in Multi-Agent Debate]], [[Benchmarks and Datasets#2026-08-25 One-on-One|Benchmarks and Datasets]], [[Agent Architectures and Frameworks#2026-08-25 One-on-One|Agent Architectures and Frameworks]], [[MS - Meeting Log#2026-08-25 One-on-One|MS - Meeting Log]]
 
 Spliting the problem, finding good questions
 The much more interesting agent is one that knows when it should move:
@@ -73,15 +73,19 @@ SFT data se
 
 ### Drafts (1)
 
-- [[AR Paper - Introduction Draft]] - Draft of the auto-researcher paper introduction: levels of scientific agents, our level, limits (long context, planning, memory, exploration), closest systems and our...
+- [[AR 6 - Paper Draft (Introduction)]] - Draft of the auto-researcher paper introduction: levels of scientific agents, our level, limits (long context, planning, memory, exploration), closest systems and our...
 
-### Papers (6)
+### Papers (10)
 
 - [[AIRA-dojo - Search Policies and Operators]] - Meta's study on MLE-bench: an agent = search policy + operators. Better operators mattered more than greedy vs MCTS vs evolution. Agents overfit to validation.
 - [[AlphaEvolve]] - Evolutionary coding agent: LLMs propose program changes, automatic evaluation selects survivors. Creativity comes from a pool of ideas that keeps improving.
+- [[DeepScientist - Findings Memory]] - Bayesian-optimization research loop with a Findings Memory of all ideas, failed ones too; month-long runs (ICLR 2026).
 - [[EscapeBench]] - Text-only room-escape games to measure creative intelligence of LLM agents. Top models reach only about 15% progress without hints.
 - [[FML-bench - Search Dynamics of Research Agents]] - 18 ML research tasks to compare the search behavior of six agents. Early gains predict the final score; scattered search does not help. AdaptiveSearch (greedy, then branch when stuck) is close to our exploration idea.
+- [[MLEvolve - Monte Carlo Graph Search]] - UCT tree with cross-branch reference edges and a success/failure memory; 65.3% any medal on full MLE-bench in 12 h.
+- [[MOOSE-Chem - Chemistry Hypothesis Rediscovery]] - Chemistry hypothesis rediscovery from inspiration papers with evolution and beam search (ICLR 2025). No experiments.
 - [[MUTATE - Divergent Thinking Benchmark]] - Text sandboxes where the obvious solution fails. Measures path-level and action-level divergence of agents. Close to EscapeBench.
+- [[ResearchAgent - Iterative Idea Generation]] - Problem, method and experiment design from a core paper, refined by 15 reviewer agents. No experiments (NAACL 2025).
 - [[Tree of Thoughts and Graph of Thoughts]] - Reasoning as a tree or a graph of thoughts with generate, refine and aggregate steps.
 
 ### Literature reviews and lists (1)

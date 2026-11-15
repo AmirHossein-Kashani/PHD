@@ -21,14 +21,14 @@ tags: [type/topic, topic/agent-architectures-and-frameworks]
 | Virtual Lab | PI, scientists and critic hold meetings | [[Virtual Lab]] |
 | Confucius | Planning DAGs, tool DSLs, RAG memory, human validation | [[Agent Architectures and Frameworks#2026-05-14 Explore CS Talk - Confucius Framework\|2026-05-14 Explore CS Talk - Confucius Framework]] |
 
-- **GoT idea to keep:** separate the *plan of operations* (static) from the *graph of reasoning state* (dynamic) ([[AR - Meeting Log#2026-08-25 One-on-One|2026-08-25 One-on-One]]).
+- **GoT idea to keep:** separate the *plan of operations* (static) from the *graph of reasoning state* (dynamic) ([[AR 7 - Meeting Log#2026-08-25 One-on-One|2026-08-25 One-on-One]]).
 - **Learning:** [[LangGraph]], [[Agentic AI - Learning Path]], [[Claude Skills vs MCP]], [[AutoGen and MetaGPT]].
 - **Survey:** [[Review - Agent Architectures for Molecule and Chemistry Design]].
 
 ## Where it is used
 
 - [[Early Exploration (May-June 2026)]]
-- [[Auto Researcher]] (Arbor uses a coordinator + executors)
+- [[AR 0 - Start Here|Auto Researcher]] (Arbor uses a coordinator + executors)
 
 ## Notes from meetings
 
@@ -37,7 +37,7 @@ tags: [type/topic, topic/agent-architectures-and-frameworks]
 ### 2026-08-25 One-on-One
 
 *Original: [Notion page](https://app.notion.com/p/3c7d68da32f080afbd74d869eda9829a)*  
-*Other parts of this meeting:* [[AR - Meeting Log#2026-08-25 One-on-One|AR - Meeting Log]], [[Creativity in Multi-Agent Debate#2026-08-25 One-on-One|Creativity in Multi-Agent Debate]], [[Benchmarks and Datasets#2026-08-25 One-on-One|Benchmarks and Datasets]], [[Creativity and Exploration#2026-08-25 One-on-One|Creativity and Exploration]], [[MS - Meeting Log#2026-08-25 One-on-One|MS - Meeting Log]]
+*Other parts of this meeting:* [[AR 7 - Meeting Log#2026-08-25 One-on-One|AR - Meeting Log]], [[Creativity in Multi-Agent Debate#2026-08-25 One-on-One|Creativity in Multi-Agent Debate]], [[Benchmarks and Datasets#2026-08-25 One-on-One|Benchmarks and Datasets]], [[Creativity and Exploration#2026-08-25 One-on-One|Creativity and Exploration]], [[MS - Meeting Log#2026-08-25 One-on-One|MS - Meeting Log]]
 
 #### learned
 

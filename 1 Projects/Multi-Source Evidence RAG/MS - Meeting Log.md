@@ -8,10 +8,10 @@ tags: [type/project-log, project/multi-source-rag]
 Part of [[Multi-Source Evidence RAG]].
 
 > [!summary] In short
-> Everything that was said or reported in meetings about the **Multi-Source Evidence RAG** (BC Children / AMG-RAG) project, newest first. Each entry is one meeting (date + title) with a link to the original Notion page. Meetings are **not separate notes**: their content lives here and in the topic notes. If a meeting also talked about other things, the entry links to the other parts (for example in [[AR - Meeting Log]]).
+> Everything that was said or reported in meetings about the **Multi-Source Evidence RAG** (BC Children / AMG-RAG) project, newest first. Each entry is one meeting (date + title) with a link to the original Notion page. Meetings are **not separate notes**: their content lives here and in the topic notes. If a meeting also talked about other things, the entry links to the other parts (for example in [[AR 7 - Meeting Log]]).
 
 > [!tip] Add a new meeting
-> Copy the `Meeting entry` template to the **top** of the entries below (or into [[AR - Meeting Log]] / a topic note, depending on what the meeting was about).
+> Copy the `Meeting entry` template to the **top** of the entries below (or into [[AR 7 - Meeting Log]] / a topic note, depending on what the meeting was about).
 
 ---
 
@@ -20,7 +20,7 @@ Part of [[Multi-Source Evidence RAG]].
 ### 2026-10-20 One-on-One
 
 *Original: [Notion page](https://app.notion.com/p/3ffd68da32f080759fc4f51afeba7a6b)*  
-*Other parts of this meeting:* [[AR - Meeting Log#2026-10-20 One-on-One|AR - Meeting Log]], [[Skills and Tools#2026-10-20 One-on-One|Skills and Tools]]
+*Other parts of this meeting:* [[AR 7 - Meeting Log#2026-10-20 One-on-One|AR - Meeting Log]], [[Skills and Tools#2026-10-20 One-on-One|Skills and Tools]]
 
 #### What have done
 - [ ] i have updated the target benchmarks for amg-rag
@@ -31,7 +31,7 @@ Part of [[Multi-Source Evidence RAG]].
 ### 2026-10-14 One-on-One
 
 *Original: [Notion page](https://app.notion.com/p/3f9d68da32f08078b783ebb810e6a469)*  
-*Other parts of this meeting:* [[AR - Meeting Log#2026-10-14 One-on-One|AR - Meeting Log]]
+*Other parts of this meeting:* [[AR 7 - Meeting Log#2026-10-14 One-on-One|AR - Meeting Log]]
 
 #### next week plan
 - [ ] lets implement the trajectory idea of multi evidence 
@@ -132,7 +132,7 @@ MindMap and AMG-RAG have public implementations; document their adaptations to y
 ### 2026-09-29 One-on-One
 
 *Original: [Notion page](https://app.notion.com/p/3f1d68da32f0807585b6fa7786e244a9)*  
-*Other parts of this meeting:* [[AR - Meeting Log#2026-09-29 One-on-One|AR - Meeting Log]]
+*Other parts of this meeting:* [[AR 7 - Meeting Log#2026-09-29 One-on-One|AR - Meeting Log]]
 
 - [ ] AMG-RAG
     - making repo 
@@ -148,7 +148,7 @@ MindMap and AMG-RAG have public implementations; document their adaptations to y
 ### 2026-09-21 One-on-One
 
 *Original: [Notion page](https://app.notion.com/p/3ead68da32f080a3839afa4c8f6bead8)*  
-*Other parts of this meeting:* [[AR - Meeting Log#2026-09-21 One-on-One|AR - Meeting Log]]
+*Other parts of this meeting:* [[AR 7 - Meeting Log#2026-09-21 One-on-One|AR - Meeting Log]]
 
 - [x] i have updated the architecture of the AMG-RAG
     - [ ] some idea about improving architecture but need to talk to tulika
@@ -175,13 +175,13 @@ current proposal for my own research
 ### 2026-09-01 One-on-One
 
 *Original: [Notion page](https://app.notion.com/p/3ced68da32f0800f93efc2133ea62a8b)*  
-*Other parts of this meeting:* [[AR - Meeting Log#2026-09-01 One-on-One|AR - Meeting Log]]  
+*Other parts of this meeting:* [[AR 7 - Meeting Log#2026-09-01 One-on-One|AR - Meeting Log]]  
 **Notes from this meeting:** [[AMG-RAG - Role of LLM, KG and Internet]]
 
 ### 2026-08-25 One-on-One
 
 *Original: [Notion page](https://app.notion.com/p/3c7d68da32f080afbd74d869eda9829a)*  
-*Other parts of this meeting:* [[AR - Meeting Log#2026-08-25 One-on-One|AR - Meeting Log]], [[Creativity in Multi-Agent Debate#2026-08-25 One-on-One|Creativity in Multi-Agent Debate]], [[Benchmarks and Datasets#2026-08-25 One-on-One|Benchmarks and Datasets]], [[Agent Architectures and Frameworks#2026-08-25 One-on-One|Agent Architectures and Frameworks]], [[Creativity and Exploration#2026-08-25 One-on-One|Creativity and Exploration]]  
+*Other parts of this meeting:* [[AR 7 - Meeting Log#2026-08-25 One-on-One|AR - Meeting Log]], [[Creativity in Multi-Agent Debate#2026-08-25 One-on-One|Creativity in Multi-Agent Debate]], [[Benchmarks and Datasets#2026-08-25 One-on-One|Benchmarks and Datasets]], [[Agent Architectures and Frameworks#2026-08-25 One-on-One|Agent Architectures and Frameworks]], [[Creativity and Exploration#2026-08-25 One-on-One|Creativity and Exploration]]  
 **Notes from this meeting:** [[AMG-RAG Phase Evolution Report]], [[AMG-RAG Five Best Answers]], [[AMG-RAG Final Conclusion]], [[AMG-RAG Phase 11 - Method Note]], [[AMG-RAG Phases Comparison Tables]]
 
 ### 2026-08-13 One-on-One (13 and 20 Aug)

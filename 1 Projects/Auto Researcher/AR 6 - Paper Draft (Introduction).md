@@ -9,12 +9,12 @@ notion: https://app.notion.com/p/3f9d68da32f08011847bdca4763be745
 created: 2026-10-14
 updated: 2026-10-20
 ---
-# AR Paper - Introduction Draft
+# AR 6 - Paper Draft (Introduction)
 
 > [!summary] In short
 > Draft of the auto-researcher paper introduction: levels of scientific agents, our level, limits (long context, planning, memory, exploration), closest systems and our contributions.
 
-**Project:** [[Auto Researcher]]  
+**Project:** [[AR 0 - Start Here|Auto Researcher]]  
 **Topics:** [[Autonomous Research Agents]], [[Creativity and Exploration]], [[Memory and Long Context]]  
 **Notion category:** [[Notion Category - Agentic AI Researchers]]  
 **Original:** [Notion page](https://app.notion.com/p/3f9d68da32f08011847bdca4763be745)

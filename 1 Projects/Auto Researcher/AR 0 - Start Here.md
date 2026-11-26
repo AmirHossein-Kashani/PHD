@@ -52,10 +52,11 @@ flowchart LR
 
 We also give every new idea a **shared memory** of findings and failures, but we do not claim it (Kosmos does something similar). Details and a worked example: [[AR 1 - Problem and Method]].
 
-## 4. Results so far in two lines
+## 4. Results so far
 
 - **September, Phase 1 vs Arbor default:** the same final score (0.322 vs 0.325), but reached faster, with about half the hours, and 3-5 levels deep instead of 2.
 - **October, four scaffolds:** ours was best in the first cycles; Claude Code won at the end by about +0.03. Our blocking rule made agents less ambitious.
+- **November, selective forgetting pilot (Fir and Nibi):** no answer yet. Every fork came when the task was already solved, so no approach could gain; the two test tasks are too easy for Opus 5.5. Next: a test bed where the blocking belief is costly to test ([[Selective Forgetting Pilot]]).
 
 Details: [[AR 2 - Experiments and Results]].
 
@@ -102,7 +103,11 @@ flowchart LR
 
 - [[AR 6 - Paper Draft (Introduction)]] - Draft of the auto-researcher paper introduction: levels of scientific agents, our level, limits (long context, planning, memory, exploration), closest systems and our...
 
-### Papers by role (37)
+### Reports and experiments (1)
+
+- [[Selective Forgetting Pilot]] - First runs of the forgetting experiment on Fir and Nibi (arms N, A-F after a fork). Hypothesis untested: every fork came when the task was already solved; the test tasks are too easy for Opus 5.5.
+
+### Papers by role (38)
 
 #### Our base system (1)
 
@@ -117,7 +122,7 @@ flowchart LR
 - [[MLEvolve - Monte Carlo Graph Search]] - UCT tree with cross-branch reference edges and a success/failure memory; 65.3% any medal on full MLE-bench in 12 h.
 - [[The AI Scientist (v1 and v2)]] - Sakana's idea-to-paper agent; v2 uses a staged best-first tree search and keeps only the best node per stage. Nature 2026.
 
-#### Closest to our ideas (must cite) (6)
+#### Closest to our ideas (must cite) (7)
 
 - [[ScienceFlow - Re-Anchoring Long-Horizon Agent]] - Continue or jump back to archived checkpoints with their evidence; 70.22% on full MLE-bench. Closest to reopening old ideas.
 - [[AiScientist - File-as-Bus Long-Horizon Engineering]] - Orchestrator plus a shared File-as-Bus workspace with append-only logs; 81.82% on MLE-bench Lite. No code.
@@ -125,6 +130,7 @@ flowchart LR
 - [[DeepScientist - Findings Memory]] - Bayesian-optimization research loop with a Findings Memory of all ideas, failed ones too; month-long runs (ICLR 2026).
 - [[Mage - Memory as Execution State]] - Memory for long-horizon agents as execution state: one layer for raw step data, one layer for summaries. Critical of plain RAG memory.
 - [[EviGraph - Evidence-Guided Research Agents]] - Graph of evidence with long and short memory and rollback to a better earlier state. Uses the graph for evidence, not for thinking steps. Not very similar to our work.
+- [[MARS - Modular Agent with Reflective Search]] - MCTS over modular solutions with a Comparative Reflective Memory of causal lessons; 56.0% any medal on MLE-Bench (ICML 2026). Closest to our failure records.
 
 #### Other research-agent systems (8)
 

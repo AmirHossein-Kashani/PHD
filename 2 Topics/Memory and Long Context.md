@@ -43,7 +43,11 @@ tags: [type/topic, topic/memory-and-long-context]
 
 - [[AR 6 - Paper Draft (Introduction)]] - Draft of the auto-researcher paper introduction: levels of scientific agents, our level, limits (long context, planning, memory, exploration), closest systems and our...
 
-### Papers (14)
+### Reports and experiments (1)
+
+- [[Selective Forgetting Pilot]] - First runs of the forgetting experiment on Fir and Nibi (arms N, A-F after a fork). Hypothesis untested: every fork came when the task was already solved; the test tasks are too easy for Opus 5.5.
+
+### Papers (15)
 
 - [[AiScientist - File-as-Bus Long-Horizon Engineering]] - Orchestrator plus a shared File-as-Bus workspace with append-only logs; 81.82% on MLE-bench Lite. No code.
 - [[Arbor - Hypothesis Tree Refinement]] - Arbor keeps the whole research state in a persistent hypothesis tree. A long-lived coordinator manages the tree; short-lived executors test one hypothesis each in a...
@@ -52,6 +56,7 @@ tags: [type/topic, topic/memory-and-long-context]
 - [[Failure Registry - Recovering Wasted Compute]] - Plug-in failure registry with banned patterns, proven fixes and backtracking; AIDE golds 22 to 38.
 - [[Kosmos - AI Scientist with World Model]] - Long runs with a shared structured world model; keeps conclusions, not paths. Commercial, no code.
 - [[Mage - Memory as Execution State]] - Memory for long-horizon agents as execution state: one layer for raw step data, one layer for summaries. Critical of plain RAG memory.
+- [[MARS - Modular Agent with Reflective Search]] - MCTS over modular solutions with a Comparative Reflective Memory of causal lessons; 56.0% any medal on MLE-Bench (ICML 2026). Closest to our failure records.
 - [[ML-Master 2.0 - Hierarchical Cognitive Caching]] - Three memory levels (traces, phase summaries with reasons, cross-task wisdom); 56.44% medals on full MLE-bench. Strongest memory rival.
 - [[MLEvolve - Monte Carlo Graph Search]] - UCT tree with cross-branch reference edges and a success/failure memory; 65.3% any medal on full MLE-bench in 12 h.
 - [[PASTA - Attention Steering]] - Lets the user mark important text and steers model attention to it, like bold text for humans.

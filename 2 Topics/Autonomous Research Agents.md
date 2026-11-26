@@ -54,16 +54,17 @@ Novikov, A., Vũ, N., Eisenberger, M., Dupont, E., Huang, P.-S., et al. (2025). 
 
 ## Notes on this topic
 
-### Reports and experiments (2)
+### Reports and experiments (3)
 
 - [[Retro-Fork Proposal v3]] - File only: Retro-Fork proposal (version 3).
 - [[Reversible Exploration (Plain Language v2)]] - File only: plain-language description of reversible exploration for research agents.
+- [[Selective Forgetting Pilot]] - First runs of the forgetting experiment on Fir and Nibi (arms N, A-F after a fork). Hypothesis untested: every fork came when the task was already solved; the test tasks are too easy for Opus 5.5.
 
 ### Drafts (1)
 
 - [[AR 6 - Paper Draft (Introduction)]] - Draft of the auto-researcher paper introduction: levels of scientific agents, our level, limits (long context, planning, memory, exploration), closest systems and our...
 
-### Papers (27)
+### Papers (28)
 
 - [[AI-Researcher and Scientist-Bench]] - Paper-to-paper pipeline with an advisor agent; Scientist-Bench of 22 papers, judged by LLMs (NeurIPS 2025).
 - [[AIDE - ML Engineering as Code Search]] - AIDE searches over whole Python scripts with a solution tree. No shared knowledge, no merging. Close to our idea and a search baseline.
@@ -81,6 +82,7 @@ Novikov, A., Vũ, N., Eisenberger, M., Dupont, E., Huang, P.-S., et al. (2025). 
 - [[Google AI Co-Scientist]] - Generate, debate, Elo-rank and evolve biomedical hypotheses (Nature 2026). No public code; does not run its own experiments.
 - [[Kosmos - AI Scientist with World Model]] - Long runs with a shared structured world model; keeps conclusions, not paths. Commercial, no code.
 - [[Mage - Memory as Execution State]] - Memory for long-horizon agents as execution state: one layer for raw step data, one layer for summaries. Critical of plain RAG memory.
+- [[MARS - Modular Agent with Reflective Search]] - MCTS over modular solutions with a Comparative Reflective Memory of causal lessons; 56.0% any medal on MLE-Bench (ICML 2026). Closest to our failure records.
 - [[ML-Master 2.0 - Hierarchical Cognitive Caching]] - Three memory levels (traces, phase summaries with reasons, cross-task wisdom); 56.44% medals on full MLE-bench. Strongest memory rival.
 - [[MLEvolve - Monte Carlo Graph Search]] - UCT tree with cross-branch reference edges and a success/failure memory; 65.3% any medal on full MLE-bench in 12 h.
 - [[MOOSE-Chem - Chemistry Hypothesis Rediscovery]] - Chemistry hypothesis rediscovery from inspiration papers with evolution and beam search (ICLR 2025). No experiments.

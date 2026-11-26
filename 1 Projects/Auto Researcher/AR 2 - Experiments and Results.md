@@ -20,6 +20,7 @@ Part of [[AR 0 - Start Here|Auto Researcher]]. Sources: [[AR 7 - Meeting Log#202
 | Run 1 | Sep 2026 | Phase 1 vs Arbor default (Kaggle spectra task) | same score (0.322 vs 0.325); Phase 1 faster, cheaper and deeper |
 | Run 2 | end of Sep 2026 | more cycles, Phase 2, Claude Code (same task) | more cycles reached the goal faster |
 | Run 3 | Oct 2026 | four scaffolds (same task) | ours best early (rank 17); Claude Code best at the end (about +0.03) |
+| [[Selective Forgetting Pilot\|Selective forgetting pilot]] | 16 Nov 2026 | Arbor `forget` variant on Fir and Nibi: arms N, A-F after a fork, on `tsp_h` and `adme_h` | hypothesis untested: every fork came when the task was already solved; agents beat the baselines on hidden data |
 
 ## Run 1 - Phase 1 vs Arbor default (September 2026)
 
@@ -57,6 +58,10 @@ From [[AR 7 - Meeting Log#2026-10-14 One-on-One|2026-10-14 One-on-One]]:
 - In **round 10, Claude Code won** the final with about +0.03 over all others. The other three approaches ended at about the same level.
 - **Logs:** our *blocking* criteria made the model less ambitious; it paused ideas.
 - At the time of the note: Claude Code at rank 60 (40 two days before); the others around rank 200. These scores were higher than the first place of two weeks before.
+
+## Selective forgetting pilot (November 2026)
+
+First runs of the forgetting experiment on Fir and Nibi (does removing one selected interpretation from the record help after a fork?). No answer yet: in every finished batch the fork came when the task was already solved, so no approach could gain. The pipeline works, and the agents beat the task baselines on hidden data, but `tsp_h` and `adme_h` are too easy for Opus 5.5. Proposed next: one `adme_h` check batch and a new test bed where the blocking belief is costly to test. Full note: [[Selective Forgetting Pilot]].
 
 ## Problems with the Kaggle setup
 

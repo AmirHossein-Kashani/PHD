@@ -25,15 +25,16 @@ tags: [type/topic, topic/evaluation-and-metrics]
 
 ## Notes on this topic
 
-### Reports and experiments (7)
+### Reports and experiments (8)
 
 - [[AMG-RAG Phase 11 - Method Note]] - Full method note of Phase 11: knowledge sources, 6-stage pipeline, evidence ledger with rule-based confidence, contradiction flags, results and limitations.
 - [[AMG-RAG Phases Comparison Tables]] - All comparison tables: configuration matrix, headline metrics, retrieval precision, search shape, ledger results, calibration and cost.
 - [[AMG-RAG Phases Report (Scores)]] - Phase catalogue, scores (on-topic %, grounded %, ClinPGx-valid %, false premise), search shape and genes found per phase.
-- [[Creativity Exp 1 - Index and Conclusion]] - Index of both creativity experiments and the full conclusion of Exp 1 (masking and shuffling of context between debating agents).
 - [[Creativity Exp 1 - Full Results]] - Full statistics of Exp 1. Masking raised agent diversity; shuffling did nothing; plain debate was worse than one agent.
+- [[Creativity Exp 1 - Index and Conclusion]] - Index of both creativity experiments and the full conclusion of Exp 1 (masking and shuffling of context between debating agents).
 - [[Creativity Exp 2 - Conclusion]] - Conclusion of Exp 2 (asymmetry levers). Persona works best; representation is a null; the new aggregator helped creativity but lost the correct diagnosis.
 - [[Creativity Exp 2 - Full Results]] - Full statistics of Exp 2 (persona, masking, representation, aggregator bottleneck, medical safety).
+- [[Selective Forgetting Pilot]] - First runs of the forgetting experiment on Fir and Nibi (arms N, A-F after a fork). Hypothesis untested: every fork came when the task was already solved; the test tasks are too easy for Opus 5.5.
 
 ### Papers (2)
 
